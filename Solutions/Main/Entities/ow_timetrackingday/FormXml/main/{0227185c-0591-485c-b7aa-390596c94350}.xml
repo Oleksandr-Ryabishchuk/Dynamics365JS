@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <systemform>
+    <formid>{0227185c-0591-485c-b7aa-390596c94350}</formid>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <FormPresentation>1</FormPresentation>
+    <FormActivationState>1</FormActivationState>
+    <form>
+      <tabs>
+        <tab verticallayout="true" id="{b4171bf9-2a39-4e53-9d8b-1b6dac835677}" IsUserDefined="1">
+          <labels>
+            <label description="General" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showlabel="false" showbar="false" IsUserDefined="0" id="{34840677-c9aa-41da-a1f1-9eda580a2870}">
+                  <labels>
+                    <label description="General" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{e26336a1-d9b0-3a74-b62d-a25b66ab2b98}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Title" languagecode="1033" />
+                        </labels>
+                        <control id="ow_title" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="ow_title" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{592ea2a1-76b6-4528-e68d-90327d1971de}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Date" languagecode="1033" />
+                        </labels>
+                        <control id="ow_date" classid="{5B773807-9FB2-42db-97C3-7A91EFF8ADFF}" datafieldname="ow_date" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{ca97426c-8c3e-6522-0970-5b65b7eba63d}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Employee" languagecode="1033" />
+                        </labels>
+                        <control id="ow_employee" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="ow_employee" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{80979b41-7b49-a9c1-e9b4-3589224a0951}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Total Hours" languagecode="1033" />
+                        </labels>
+                        <control id="ow_totalhours" classid="{C3EFE0C3-0EC6-42be-8349-CBD9079DFD8E}" datafieldname="ow_totalhours" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{bae3e4d9-c643-407d-99d1-7469b44d708f}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Name" languagecode="1033" />
+                        </labels>
+                        <control id="ow_name" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="ow_name" uniqueid="{b7ba7860-6d07-1b87-da56-ea7b0182b4e1}" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{ae6a0315-d4bf-4aab-8cb7-5fd737968a41}" showlabel="true" locklevel="1" visible="false">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="ownerid" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="ownerid" uniqueid="{9a38bbb1-0e38-c68a-1e67-5447188432eb}" disabled="false">
+                          <parameters>
+                            <AutoResolve>true</AutoResolve>
+                            <DisableMru>false</DisableMru>
+                          </parameters>
+                        </control>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{13a4d9cc-8633-8a76-635c-7715163c16e5}" showlabel="false" colspan="1" auto="false" rowspan="6">
+                        <labels>
+                          <label description="Time Tracking Records (Day)" languagecode="1033" />
+                        </labels>
+                        <control id="Time_Tracking_Records" classid="{E7A81278-8635-4d9e-8D4D-59480B391C5B}" indicationOfSubgrid="true" uniqueid="{2b8e3099-16a8-b90e-ae2a-6a3b2210e511}">
+                          <parameters>
+                            <ViewId>{4A416EA3-9203-EC11-94EF-0022482410D9}</ViewId>
+                            <IsUserView>false</IsUserView>
+                            <RelationshipName>ow_ow_timetrackingday_ow_timetrackingrecord_Day</RelationshipName>
+                            <TargetEntityType>ow_timetrackingrecord</TargetEntityType>
+                            <AutoExpand>Fixed</AutoExpand>
+                            <EnableQuickFind>false</EnableQuickFind>
+                            <EnableViewPicker>false</EnableViewPicker>
+                            <ViewIds>{4A416EA3-9203-EC11-94EF-0022482410D9},{7BC4AD01-2A72-466C-83F9-482FAFACEDAB}</ViewIds>
+                            <EnableJumpBar>false</EnableJumpBar>
+                            <ChartGridMode>All</ChartGridMode>
+                            <VisualizationId />
+                            <IsUserChart>false</IsUserChart>
+                            <EnableChartPicker>true</EnableChartPicker>
+                            <RecordsPerPage>4</RecordsPerPage>
+                            <HeaderColorCode>#F3F3F3</HeaderColorCode>
+                          </parameters>
+                        </control>
+                      </cell>
+                    </row>
+                    <row />
+                    <row />
+                    <row />
+                    <row />
+                    <row />
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+      </tabs>
+      <Navigation>
+        <NavBar></NavBar>
+        <NavBarAreas>
+          <NavBarArea Id="Info">
+            <Titles>
+              <Title LCID="1033" Text="Common" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Sales">
+            <Titles>
+              <Title LCID="1033" Text="Sales" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Service">
+            <Titles>
+              <Title LCID="1033" Text="Service" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Marketing">
+            <Titles>
+              <Title LCID="1033" Text="Marketing" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="ProcessCenter">
+            <Titles>
+              <Title LCID="1033" Text="Process Sessions" />
+            </Titles>
+          </NavBarArea>
+        </NavBarAreas>
+      </Navigation>
+      <controlDescriptions />
+    </form>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <LocalizedNames>
+      <LocalizedName description="Information" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="A form for this entity." languagecode="1033" />
+    </Descriptions>
+  </systemform>
+</forms>

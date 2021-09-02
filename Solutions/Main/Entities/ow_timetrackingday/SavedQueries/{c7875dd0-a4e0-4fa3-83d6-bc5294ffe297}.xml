@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>0</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>1</isdefault>
+    <savedqueryid>{c7875dd0-a4e0-4fa3-83d6-bc5294ffe297}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="ow_name" select="1" icon="1" preview="1">
+        <row name="result" id="ow_timetrackingdayid">
+          <cell name="ow_title" width="100" disableSorting="1" />
+          <cell name="ow_date" width="100" />
+          <cell name="ow_employee" width="100" />
+          <cell name="ow_totalhours" width="100" />
+        </row>
+        <controlDescriptions>
+          <controlDescription>
+            <customControl id="{E7A81278-8635-4d9e-8D4D-59480B391C5B}">
+              <parameters />
+            </customControl>
+            <customControl name="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" formFactor="0">
+              <parameters>
+                <data-set name="Calendar">
+                  <ViewId>00000000-0000-0000-0000-000000000000</ViewId>
+                  <StartDate>ow_date</StartDate>
+                  <Description>ow_title</Description>
+                  <EndDate>ow_date</EndDate>
+                </data-set>
+              </parameters>
+            </customControl>
+            <customControl name="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" formFactor="1">
+              <parameters>
+                <data-set name="Calendar">
+                  <ViewId>00000000-0000-0000-0000-000000000000</ViewId>
+                  <StartDate>ow_date</StartDate>
+                  <Description>ow_title</Description>
+                  <EndDate>ow_date</EndDate>
+                </data-set>
+              </parameters>
+            </customControl>
+            <customControl name="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" formFactor="2">
+              <parameters>
+                <data-set name="Calendar">
+                  <ViewId>00000000-0000-0000-0000-000000000000</ViewId>
+                  <StartDate>ow_date</StartDate>
+                  <Description>ow_title</Description>
+                  <EndDate>ow_date</EndDate>
+                </data-set>
+              </parameters>
+            </customControl>
+          </controlDescription>
+        </controlDescriptions>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" mapping="logical">
+        <entity name="ow_timetrackingday">
+          <order attribute="ow_date" descending="false" />
+          <filter type="and">
+            <condition attribute="statecode" operator="eq" value="0" />
+          </filter>
+          <attribute name="ow_totalhours" />
+          <attribute name="ow_title" />
+          <attribute name="ow_employee" />
+          <attribute name="ow_date" />
+          <attribute name="ow_timetrackingdayid" />
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="Active Time Tracking Day Records" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>0</isdefault>
+    <savedqueryid>{4a416ea3-9203-ec11-94ef-0022482410d9}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="ow_name" select="1" preview="1" icon="1">
+        <row name="result" id="ow_timetrackingrecordid">
+          <cell name="ow_project" width="125" imageproviderfunctionname="" imageproviderwebresource="$webresource:" />
+          <cell name="ow_reportedhours" width="75" imageproviderfunctionname="" imageproviderwebresource="$webresource:" />
+          <cell name="ow_type" width="125" imageproviderfunctionname="" imageproviderwebresource="$webresource:" />
+          <cell name="ow_name" width="150" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" output-format="xml-platform" mapping="logical">
+        <entity name="ow_timetrackingrecord">
+          <attribute name="ow_name" />
+          <order attribute="ow_name" descending="false" />
+          <attribute name="ow_type" />
+          <attribute name="ow_reportedhours" />
+          <attribute name="ow_project" />
+          <attribute name="ow_timetrackingrecordid" />
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="`Day_Related_Records" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

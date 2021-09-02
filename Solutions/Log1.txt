@@ -1,0 +1,23 @@
+11:12:08 PM	Unpacking solution
+11:12:08 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+11:12:08 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:13:56 PM	Unpacking solution
+11:13:56 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+11:13:56 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:14:38 PM	Unpacking solution
+11:14:38 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+11:14:38 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:15:17 PM	Unpacking solution
+11:15:17 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+11:15:17 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:17:19 PM	Target D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools
+11:17:19 PM	Map xml created at 'D:\Projects\Dynamics365JS\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\packager_map.xml'
+11:17:19 PM	Running D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\Admin\AppData\Local\Temp\tmp9300.zip" /folder:"D:\Projects\Dynamics365JS\Solutions\Main" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml /clobber
+11:17:20 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+12:18:44 AM	Unpacking solution
+12:18:44 AM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+12:18:44 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+12:19:54 AM	Target D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools
+12:19:54 AM	Map xml created at 'D:\Projects\Dynamics365JS\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\packager_map.xml'
+12:19:54 AM	Running D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\Admin\AppData\Local\Temp\tmpAAF3.zip" /folder:"D:\Projects\Dynamics365JS\Solutions\Main" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml /clobber
+12:19:55 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'

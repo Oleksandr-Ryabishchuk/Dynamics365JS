@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <systemform>
+    <formid>{ee0267e2-6bbc-4659-b6c2-a3556fbe8cad}</formid>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <FormPresentation>1</FormPresentation>
+    <FormActivationState>1</FormActivationState>
+    <form>
+      <tabs>
+        <tab id="{6d879b95-d18f-4340-96f9-6eebd19cd853}" name="tab_1" showlabel="false">
+          <labels>
+            <label description="Tab" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="33%">
+              <sections>
+                <section id="{2ab08e2b-a244-4b33-bc02-ade86e0efdb9}" name="tab_1_column_1_section_1" columns="1" showlabel="false" showbar="false" IsUserDefined="0">
+                  <labels>
+                    <label description="section" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{518053bb-8ea8-cbb9-90eb-d3657e299d29}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Name" languagecode="1033" />
+                        </labels>
+                        <control id="ow_name" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="ow_name" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{d8d204cc-d156-dca1-5ea1-97a056e06b09}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Manager" languagecode="1033" />
+                        </labels>
+                        <control id="ow_manager" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="ow_manager" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{aeb675d4-b3e8-7530-040c-e697e41a5946}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Description" languagecode="1033" />
+                        </labels>
+                        <control id="ow_description" classid="{E0DECE4B-6FC8-4a8f-A065-082708572369}" datafieldname="ow_description" disabled="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+            <column width="33%">
+              <sections>
+                <section id="{0abe43a5-4b3f-42c9-80ff-a0cdbc63023c}" name="tab_1_column_2_section_1" columns="1" showlabel="false" showbar="false" IsUserDefined="0">
+                  <labels>
+                    <label description="section" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{55e32be1-cb1d-4710-acc5-0636a6c61af2}">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+            <column width="33%">
+              <sections>
+                <section id="{80076bfa-0cb3-4de4-b612-2a2ca988648b}" name="tab_1_column_3_section_1" columns="1" showlabel="false" showbar="false" IsUserDefined="0">
+                  <labels>
+                    <label description="section" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{2a530157-e147-424f-b5a0-e8fae505a225}">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+      </tabs>
+      <DisplayConditions Order="1">
+        <Role Id="{627090ff-40a3-4053-8790-584edc5be201}" />
+        <Role Id="{119f245c-3cc8-4b62-b31c-d1a046ced15d}" />
+      </DisplayConditions>
+    </form>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <LocalizedNames>
+      <LocalizedName description="New Form" languagecode="1033" />
+    </LocalizedNames>
+  </systemform>
+</forms>

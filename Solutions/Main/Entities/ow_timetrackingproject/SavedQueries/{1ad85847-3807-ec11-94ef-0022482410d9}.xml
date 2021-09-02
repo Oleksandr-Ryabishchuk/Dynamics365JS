@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>0</isdefault>
+    <savedqueryid>{1ad85847-3807-ec11-94ef-0022482410d9}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="ow_name" select="1" preview="1" icon="1">
+        <row name="result" id="ow_timetrackingprojectid">
+          <cell name="ow_name" width="150" />
+          <cell name="ow_manager" width="100" />
+          <cell name="ow_startdate" width="100" />
+          <cell name="ow_enddate" width="100" />
+        </row>
+        <controlDescriptions>
+          <controlDescription>
+            <customControl id="{E7A81278-8635-4d9e-8D4D-59480B391C5B}" formFactor="0">
+              <parameters />
+            </customControl>
+            <customControl id="{E7A81278-8635-4d9e-8D4D-59480B391C5B}" formFactor="1">
+              <parameters />
+            </customControl>
+            <customControl name="MscrmControls.Grid.ReadOnlyGrid" formFactor="2">
+              <parameters>
+                <data-set name="Grid">
+                  <ViewId>00000000-0000-0000-0000-000000000000</ViewId>
+                </data-set>
+                <EnableGroupBy static="true" type="Enum">no</EnableGroupBy>
+                <CardForm static="true" type="Form.Card">1ecbc554-c461-40ad-9f8d-e2818821efa9:Card|ow_timetrackingproject|00000000-0000-0000-0000-000000000000</CardForm>
+                <EnableEditing static="true" type="Enum">no</EnableEditing>
+                <ReflowBehavior static="true" type="Enum">Reflow</ReflowBehavior>
+                <ListLayoutDirection static="true" type="Enum">Vertical</ListLayoutDirection>
+                <EnableSubGridAutoCollapse static="true" type="Enum">false</EnableSubGridAutoCollapse>
+                <EnableFiltering static="true" type="Enum">no</EnableFiltering>
+                <EnableJumpBar static="true" type="Enum">yes</EnableJumpBar>
+              </parameters>
+            </customControl>
+          </controlDescription>
+        </controlDescriptions>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" output-format="xml-platform" mapping="logical">
+        <entity name="ow_timetrackingproject">
+          <attribute name="ow_name" />
+          <order attribute="ow_name" descending="false" />
+          <attribute name="ow_startdate" />
+          <attribute name="ow_manager" />
+          <attribute name="ow_enddate" />
+          <attribute name="ow_timetrackingprojectid" />
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="Card_Form_View" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

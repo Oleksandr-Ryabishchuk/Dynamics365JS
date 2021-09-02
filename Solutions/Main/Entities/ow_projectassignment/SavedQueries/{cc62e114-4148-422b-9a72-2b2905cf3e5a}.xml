@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>0</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>0</isdefault>
+    <savedqueryid>{cc62e114-4148-422b-9a72-2b2905cf3e5a}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="ow_name" select="1" icon="1" preview="1">
+        <row name="result" id="ow_projectassignmentid">
+          <cell name="ow_name" width="300" />
+          <cell name="createdon" width="125" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" mapping="logical">
+        <entity name="ow_projectassignment">
+          <attribute name="ow_projectassignmentid" />
+          <attribute name="ow_name" />
+          <attribute name="createdon" />
+          <order attribute="ow_name" descending="false" />
+          <filter type="and">
+            <condition attribute="statecode" operator="eq" value="1" />
+          </filter>
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="Inactive Project Assignment" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

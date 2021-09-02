@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workflow WorkflowId="{b78f6f33-3a62-4b94-82cb-efca07178e50}" Name="Time Tracking Record Flow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XamlFileName>/Workflows/TimeTrackingRecordFlow-B78F6F33-3A62-4B94-82CB-EFCA07178E50.xaml</XamlFileName>
+  <Type>1</Type>
+  <Subprocess>0</Subprocess>
+  <Category>4</Category>
+  <Mode>0</Mode>
+  <Scope>4</Scope>
+  <OnDemand>0</OnDemand>
+  <TriggerOnCreate>1</TriggerOnCreate>
+  <TriggerOnDelete>0</TriggerOnDelete>
+  <AsyncAutodelete>0</AsyncAutodelete>
+  <SyncWorkflowLogOnFailure>0</SyncWorkflowLogOnFailure>
+  <StateCode>1</StateCode>
+  <StatusCode>2</StatusCode>
+  <processorder>100</processorder>
+  <RunAs>1</RunAs>
+  <UniqueName>ow_approval</UniqueName>
+  <IsTransacted>1</IsTransacted>
+  <IntroducedVersion>1.0.0.0</IntroducedVersion>
+  <IsCustomizable>1</IsCustomizable>
+  <BusinessProcessType>0</BusinessProcessType>
+  <IsCustomProcessingStepAllowedForOtherPublishers>1</IsCustomProcessingStepAllowedForOtherPublishers>
+  <ProcessTriggerScope>1</ProcessTriggerScope>
+  <PrimaryEntity>ow_timetrackingrecord</PrimaryEntity>
+  <LocalizedNames>
+    <LocalizedName languagecode="1033" description="Time Tracking Record Flow" />
+  </LocalizedNames>
+  <labels>
+    <steplabels id="{03570f7b-9d78-4090-8dcf-cd4eca7bffcb}">
+      <label languagecode="1033" description="Draft" />
+    </steplabels>
+    <steplabels id="{3f11c4cc-0e74-42e5-a2a6-a15b1eed63fb}">
+      <label languagecode="1033" description="Day" />
+    </steplabels>
+    <steplabels id="{d8978fa3-6add-43d9-bd7c-9036425f7d84}">
+      <label languagecode="1033" description="Comment" />
+    </steplabels>
+    <steplabels id="{5da6468f-a7bc-4a34-b45c-3de38e64ee84}">
+      <label languagecode="1033" description="Type" />
+    </steplabels>
+    <steplabels id="{b2ce2cd2-f218-4495-9bd7-3e15178e8437}">
+      <label languagecode="1033" description="Submitted" />
+    </steplabels>
+    <steplabels id="{9c85ff3e-c61c-4005-9339-06c2a05b3729}">
+      <label languagecode="1033" description="Approved" />
+    </steplabels>
+    <steplabels id="{c4d52343-07f5-4e2c-90cf-89155a83698c}">
+      <label languagecode="1033" description="Comment" />
+    </steplabels>
+    <steplabels id="{c81fa83e-c481-4b3e-8e29-2e3ac24a4f9b}">
+      <label languagecode="1033" description="Approved" />
+    </steplabels>
+    <steplabels id="{a11229aa-43fe-409c-86cf-507043c55d4c}">
+      <label languagecode="1033" description="Description" />
+    </steplabels>
+    <steplabels id="{e51d5fe9-c06f-46ef-a269-ca275493361e}">
+      <label languagecode="1033" description="Archived" />
+    </steplabels>
+    <steplabels id="{8fd8ccf4-11b6-4ba9-8b0a-556ab6396c0d}">
+      <label languagecode="1033" description="Archived" />
+    </steplabels>
+  </labels>
+</Workflow>

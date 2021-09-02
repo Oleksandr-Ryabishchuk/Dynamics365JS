@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <systemform>
+    <formid>{ba5551bf-fa3e-4eff-a1d6-a3dce4607ce8}</formid>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <FormPresentation>1</FormPresentation>
+    <FormActivationState>1</FormActivationState>
+    <form>
+      <tabs>
+        <tab verticallayout="true" id="{fc1852e8-948c-42dc-b980-f3b8f71961cb}" IsUserDefined="1" name="{fc1852e8-948c-42dc-b980-f3b8f71961cb}" locklevel="0" expanded="true" showlabel="true">
+          <labels>
+            <label description="General" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showlabel="false" showbar="false" IsUserDefined="0" id="{e38dea10-8aed-4247-93bd-080f14ecdd69}" name="{e38dea10-8aed-4247-93bd-080f14ecdd69}" columns="11" locklevel="0" labelwidth="130" celllabelalignment="Left" celllabelposition="Left">
+                  <labels>
+                    <label description="General" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{2ac2643b-394b-1b77-c364-2e8a12b9a618}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Employee" languagecode="1033" />
+                        </labels>
+                        <control id="ow_employee" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="ow_employee" disabled="false" uniqueid="{1289b221-36a3-4e57-e50d-c0be564330d7}" />
+                      </cell>
+                      <cell id="{6dc37052-39ae-1ec0-ad01-ba7dad9dc942}" showlabel="false" colspan="1" auto="false">
+                        <labels>
+                          <label description="Other Records for this day" languagecode="1033" />
+                        </labels>
+                        <control id="Other_Records" classid="{5C5600E0-1D6E-4205-A272-BE80DA87FD42}" datafieldname="ow_day" disabled="false">
+                          <parameters>
+                            <QuickForms>&lt;QuickFormIds&gt;&lt;QuickFormId entityname="ow_timetrackingday"&gt;3cd79a78-2b28-4c4c-b07f-069beb3a4ff7&lt;/QuickFormId&gt;&lt;/QuickFormIds&gt;</QuickForms>
+                            <ControlMode>Edit</ControlMode>
+                            <DisplayAsCustomer360Tile>false</DisplayAsCustomer360Tile>
+                          </parameters>
+                        </control>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{10923ce9-3b50-7bd2-43b4-9174db95aa09}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Date" languagecode="1033" />
+                        </labels>
+                        <control id="ow_date" classid="{5B773807-9FB2-42db-97C3-7A91EFF8ADFF}" datafieldname="ow_date" disabled="false" />
+                      </cell>
+                      <cell id="{3e470161-900c-741b-5002-b097b274dc33}" showlabel="false">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{ae355945-04a0-99b0-210e-a84209a32be1}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Day" languagecode="1033" />
+                        </labels>
+                        <control id="ow_day" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="ow_day" disabled="false" uniqueid="{b26c4b37-6a53-2d40-3c88-bad0b94d7d99}">
+                          <parameters>
+                            <AutoResolve>true</AutoResolve>
+                            <DisableMru>false</DisableMru>
+                            <DisableQuickFind>false</DisableQuickFind>
+                            <DisableViewPicker>true</DisableViewPicker>
+                            <DefaultViewId>{DA515D6B-2B05-EC11-94EF-0022482410D9}</DefaultViewId>
+                            <AllowFilterOff>false</AllowFilterOff>
+                            <AvailableViewIds>{70F01323-D33D-488B-BF45-AD97C4EDDF7F}</AvailableViewIds>
+                          </parameters>
+                        </control>
+                      </cell>
+                      <cell id="{3d1119ce-102d-10ed-0b45-a8625ae7a6b3}" showlabel="false">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{d283c106-424b-192e-d6d5-578450c1d353}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Type" languagecode="1033" />
+                        </labels>
+                        <control id="ow_type" classid="{3EF39988-22BB-4f0b-BBBE-64B5A3748AEE}" datafieldname="ow_type" disabled="false" uniqueid="{d1a499e0-58cd-c0d8-b39d-0eb4030011d0}" />
+                      </cell>
+                      <cell id="{009b2e42-4665-56c6-d44a-b45991293692}" showlabel="false">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{259772d0-a948-49cb-3d6b-bd6e53104666}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Project" languagecode="1033" />
+                        </labels>
+                        <control id="ow_project" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="ow_project" disabled="false" />
+                      </cell>
+                      <cell id="{ea184543-2658-32be-8cbc-911da0b4d086}" showlabel="false">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{5338d8b9-5e3d-2d74-12b3-cb24a8857049}" showlabel="true" locklevel="0">
+                        <labels>
+                          <label description="Reported hours" languagecode="1033" />
+                        </labels>
+                        <control id="ow_reportedhours" classid="{F9A8A302-114E-466A-B582-6771B2AE0D92}" datafieldname="ow_reportedhours" disabled="false" uniqueid="{232da553-ec6b-0e63-bc9d-6481715a352c}" />
+                      </cell>
+                      <cell id="{94b5987b-9549-c047-c2bb-a880466b91d9}" showlabel="false">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{49cb7018-4ff9-4949-90b4-cad3306cbe78}">
+                        <labels>
+                          <label description="Description" languagecode="1033" />
+                        </labels>
+                        <control id="ow_name" classid="{4273EDBD-AC1D-40d3-9FB2-095C621B552D}" datafieldname="ow_name" />
+                      </cell>
+                      <cell id="{5cc5aa5e-0986-0322-89e8-c4d4dee0172c}" showlabel="false">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{cf0dd1dd-4bfd-4cf8-bfe3-2821466e6270}" showlabel="true" locklevel="1" visible="false">
+                        <labels>
+                          <label description="Owner" languagecode="1033" />
+                        </labels>
+                        <control id="ownerid" classid="{270BD3DB-D9AF-4782-9025-509E298DEC0A}" datafieldname="ownerid" uniqueid="{3bb4a5ac-39da-0646-2dd1-929933436a78}" disabled="false">
+                          <parameters>
+                            <AutoResolve>true</AutoResolve>
+                            <DisableMru>false</DisableMru>
+                          </parameters>
+                        </control>
+                      </cell>
+                      <cell id="{bd8d50ce-ee4a-c1d1-31be-798d49b705e9}" showlabel="false">
+                        <labels>
+                          <label description="" languagecode="1033" />
+                        </labels>
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+      </tabs>
+      <Navigation>
+        <NavBar></NavBar>
+        <NavBarAreas>
+          <NavBarArea Id="Info">
+            <Titles>
+              <Title LCID="1033" Text="Common" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Sales">
+            <Titles>
+              <Title LCID="1033" Text="Sales" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Service">
+            <Titles>
+              <Title LCID="1033" Text="Service" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="Marketing">
+            <Titles>
+              <Title LCID="1033" Text="Marketing" />
+            </Titles>
+          </NavBarArea>
+          <NavBarArea Id="ProcessCenter">
+            <Titles>
+              <Title LCID="1033" Text="Process Sessions" />
+            </Titles>
+          </NavBarArea>
+        </NavBarAreas>
+      </Navigation>
+      <controlDescriptions>
+        <controlDescription forControl="{232da553-ec6b-0e63-bc9d-6481715a352c}">
+          <customControl id="{C3EFE0C3-0EC6-42be-8349-CBD9079DFD8E}" formFactor="0">
+            <parameters>
+              <datafieldname>ow_reportedhours</datafieldname>
+            </parameters>
+          </customControl>
+          <customControl id="{C3EFE0C3-0EC6-42be-8349-CBD9079DFD8E}" formFactor="1">
+            <parameters>
+              <datafieldname>ow_reportedhours</datafieldname>
+            </parameters>
+          </customControl>
+          <customControl formFactor="2" name="MscrmControls.NumberInput.NumberInputControl">
+            <parameters>
+              <value>ow_reportedhours</value>
+              <step static="true" type="Whole.None">1</step>
+            </parameters>
+          </customControl>
+          <customControl name="MscrmControls.Canvas.CanvasControl" formFactor="-1">
+            <parameters>
+              <record>ow_reportedhours</record>
+              <entityName static="true" type="SingleLine.Text">Time Tracking Record</entityName>
+              <appId static="true" type="SingleLine.Text">1</appId>
+            </parameters>
+          </customControl>
+        </controlDescription>
+      </controlDescriptions>
+    </form>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <LocalizedNames>
+      <LocalizedName description="Information" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="A form for this entity." languagecode="1033" />
+    </Descriptions>
+  </systemform>
+</forms>

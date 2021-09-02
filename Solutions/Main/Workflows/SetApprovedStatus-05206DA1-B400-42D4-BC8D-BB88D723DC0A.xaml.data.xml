@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workflow WorkflowId="{05206da1-b400-42d4-bc8d-bb88d723dc0a}" Name="Set Approved Status" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XamlFileName>/Workflows/SetApprovedStatus-05206DA1-B400-42D4-BC8D-BB88D723DC0A.xaml</XamlFileName>
+  <Type>1</Type>
+  <Subprocess>1</Subprocess>
+  <Category>0</Category>
+  <Mode>1</Mode>
+  <Scope>1</Scope>
+  <OnDemand>1</OnDemand>
+  <TriggerOnUpdateAttributeList>ow_approved</TriggerOnUpdateAttributeList>
+  <TriggerOnCreate>0</TriggerOnCreate>
+  <TriggerOnDelete>0</TriggerOnDelete>
+  <AsyncAutodelete>0</AsyncAutodelete>
+  <SyncWorkflowLogOnFailure>1</SyncWorkflowLogOnFailure>
+  <StateCode>1</StateCode>
+  <StatusCode>2</StatusCode>
+  <CreateStage>40</CreateStage>
+  <UpdateStage>40</UpdateStage>
+  <RunAs>1</RunAs>
+  <IsTransacted>1</IsTransacted>
+  <IntroducedVersion>1.0.0.0</IntroducedVersion>
+  <IsCustomizable>1</IsCustomizable>
+  <IsCustomProcessingStepAllowedForOtherPublishers>1</IsCustomProcessingStepAllowedForOtherPublishers>
+  <PrimaryEntity>ow_timetrackingrecord</PrimaryEntity>
+  <LocalizedNames>
+    <LocalizedName languagecode="1033" description="Set Approved Status" />
+  </LocalizedNames>
+  <labels>
+    <steplabels id="{93e137cc-8bdd-44ec-bac1-55245f05021b}">
+      <label languagecode="1033" description="Record should be approved by Project Manager" />
+    </steplabels>
+  </labels>
+</Workflow>

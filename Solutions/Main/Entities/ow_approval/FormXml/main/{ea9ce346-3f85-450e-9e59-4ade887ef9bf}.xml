@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <systemform>
+    <formid>{ea9ce346-3f85-450e-9e59-4ade887ef9bf}</formid>
+    <IntroducedVersion>1.0</IntroducedVersion>
+    <FormPresentation>1</FormPresentation>
+    <FormActivationState>1</FormActivationState>
+    <form>
+      <tabs>
+        <tab verticallayout="true" id="{03570f7b-9d78-4090-8dcf-cd4eca7bffcb}" name="StageStep3" locklevel="0" expanded="true" visible="false" labelid="{ae8a4484-958e-4b12-a06f-aa12766ada69}">
+          <labels>
+            <label description="Draft" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{28773130-704c-e2ef-c3c6-505a434e2850}" name="StageStep3_section1" labelid="{cda3058f-edc7-4b9f-933c-dced0f67de73}">
+                  <labels>
+                    <label description="Draft" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{3f11c4cc-0e74-42e5-a2a6-a15b1eed63fb}" showlabel="true" visible="true" labelid="{579a2d69-9298-4095-89c9-80aa9b058f5c}">
+                        <labels>
+                          <label description="Day" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_ow_timetrackingrecord_ow_approval:ow_day" classid="{5b773807-9fb2-42db-97c3-7a91eff8adff}" datafieldname="ow_day" disabled="false" relationship="bpf_ow_timetrackingrecord_ow_approval" isrequired="true" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{d8978fa3-6add-43d9-bd7c-9036425f7d84}" showlabel="true" visible="true" labelid="{18e5a8fe-d2de-4c1f-a19b-7f3aa06d2b0e}">
+                        <labels>
+                          <label description="Comment" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_ow_timetrackingrecord_ow_approval:ow_name" classid="{4273edbd-ac1d-40d3-9fb2-095c621b552d}" datafieldname="ow_name" disabled="false" relationship="bpf_ow_timetrackingrecord_ow_approval" isrequired="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{5da6468f-a7bc-4a34-b45c-3de38e64ee84}" showlabel="true" visible="true" labelid="{4411547f-5c81-43b1-bbf1-b715a5dcf24f}">
+                        <labels>
+                          <label description="Type" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_ow_timetrackingrecord_ow_approval:ow_type" classid="{3ef39988-22bb-4f0b-bbbe-64b5a3748aee}" datafieldname="ow_type" disabled="false" relationship="bpf_ow_timetrackingrecord_ow_approval" isrequired="true" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{b2ce2cd2-f218-4495-9bd7-3e15178e8437}" name="StageStep11" locklevel="0" expanded="true" visible="false" labelid="{4a0f3866-48f7-4e8a-9335-3fee4dd828ee}">
+          <labels>
+            <label description="Submitted" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{05867d37-7137-90ce-f12a-f8b4a11e4885}" name="StageStep11_section1" labelid="{c1b3e134-8bac-4086-a45c-1a14898da25f}">
+                  <labels>
+                    <label description="Submitted" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{9c85ff3e-c61c-4005-9339-06c2a05b3729}" showlabel="true" visible="true" labelid="{c18f4f59-47c6-4a50-9c8e-ca7ea77716a5}">
+                        <labels>
+                          <label description="Approved" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_ow_timetrackingrecord_ow_approval:ow_approved" classid="{67fac785-cd58-4f9f-abb3-4b7ddc6ed5ed}" datafieldname="ow_approved" disabled="false" relationship="bpf_ow_timetrackingrecord_ow_approval" isrequired="false" />
+                      </cell>
+                    </row>
+                    <row>
+                      <cell id="{c4d52343-07f5-4e2c-90cf-89155a83698c}" showlabel="true" visible="true" labelid="{b8eb9935-5710-4184-85a3-bf6d1d07d1f3}">
+                        <labels>
+                          <label description="Comment" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_ow_timetrackingrecord_ow_approval:ow_name" classid="{67fac785-cd58-4f9f-abb3-4b7ddc6ed5ed}" datafieldname="ow_name" disabled="false" relationship="bpf_ow_timetrackingrecord_ow_approval" isrequired="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{c81fa83e-c481-4b3e-8e29-2e3ac24a4f9b}" name="StageStep18" locklevel="0" expanded="true" visible="false" labelid="{2c094031-d0b4-4a97-b573-92625b31661e}">
+          <labels>
+            <label description="Approved" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{1378fda9-9440-965e-01c2-7fa5714408e1}" name="StageStep18_section1" labelid="{425d595f-122c-4e5f-8e1c-ab9d7bc1606a}">
+                  <labels>
+                    <label description="Approved" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{a11229aa-43fe-409c-86cf-507043c55d4c}" showlabel="true" visible="true" labelid="{a562eafd-985a-4e8e-a520-af856375a1c6}">
+                        <labels>
+                          <label description="Description" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_ow_timetrackingrecord_ow_approval:ow_name" classid="{4273edbd-ac1d-40d3-9fb2-095c621b552d}" datafieldname="ow_name" disabled="false" relationship="bpf_ow_timetrackingrecord_ow_approval" isrequired="false" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+        <tab verticallayout="true" id="{e51d5fe9-c06f-46ef-a269-ca275493361e}" name="StageStep23" locklevel="0" expanded="true" visible="false" labelid="{a81cb5bc-4cac-4e77-b15a-42deeb07ea43}">
+          <labels>
+            <label description="Archived" languagecode="1033" />
+          </labels>
+          <columns>
+            <column width="100%">
+              <sections>
+                <section showbar="false" columns="1" id="{596ecb53-20eb-4821-60a6-af03f0214600}" name="StageStep23_section1" labelid="{2f450838-3686-460e-a134-4f8b497da845}">
+                  <labels>
+                    <label description="Archived" languagecode="1033" />
+                  </labels>
+                  <rows>
+                    <row>
+                      <cell id="{8fd8ccf4-11b6-4ba9-8b0a-556ab6396c0d}" showlabel="true" visible="true" labelid="{d0764b7f-3fde-49f4-a154-b9679b16453b}">
+                        <labels>
+                          <label description="Archived" languagecode="1033" />
+                        </labels>
+                        <control id="bpf_ow_timetrackingrecord_ow_approval:ow_approvercomment" classid="{e0dece4b-6fc8-4a8f-a065-082708572369}" datafieldname="ow_approvercomment" disabled="false" relationship="bpf_ow_timetrackingrecord_ow_approval" isrequired="true" />
+                      </cell>
+                    </row>
+                  </rows>
+                </section>
+              </sections>
+            </column>
+          </columns>
+        </tab>
+      </tabs>
+    </form>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>1</CanBeDeleted>
+    <LocalizedNames>
+      <LocalizedName description="Information" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="A form for this entity." languagecode="1033" />
+    </Descriptions>
+  </systemform>
+</forms>

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LocalizedNames>
+    <LocalizedName description="Home" languagecode="1033" />
+  </LocalizedNames>
+  <FormId>{9713fa2e-b408-ec11-b6e6-000d3a8af4ae}</FormId>
+  <IsCustomizable>1</IsCustomizable>
+  <IsDefault>0</IsDefault>
+  <FormXml>
+    <forms type="dashboard">
+      <form>
+        <tabs>
+          <tab showlabel="false" verticallayout="true" id="{0d959301-05bc-436a-80e6-291bdeccad30}">
+            <labels>
+              <label description="Tab" languagecode="1033" />
+            </labels>
+            <columns>
+              <column width="100%">
+                <sections>
+                  <section showlabel="false" showbar="false" columns="1111" id="{bf89a92f-2c65-4da4-aa4c-423024fd2f56}">
+                    <labels>
+                      <label description="Section" languagecode="1033" />
+                    </labels>
+                    <rows>
+                      <row>
+                        <cell colspan="2" rowspan="12" showlabel="false" id="{d661f41a-7304-403c-addb-1cede8bc9da1}" auto="false">
+                          <labels>
+                            <label description="Time Tracking Day Records" languagecode="1033" />
+                          </labels>
+                          <control id="Componentbf5409e" uniqueid="{12556b4b-35a9-de7e-221d-1385b58297d9}" classid="{E7A81278-8635-4d9e-8D4D-59480B391C5B}" indicationOfSubgrid="true">
+                            <parameters>
+                              <TargetEntityType>ow_timetrackingday</TargetEntityType>
+                              <ChartGridMode>Grid</ChartGridMode>
+                              <EnableQuickFind>true</EnableQuickFind>
+                              <EnableViewPicker>true</EnableViewPicker>
+                              <EnableJumpBar>true</EnableJumpBar>
+                              <RecordsPerPage>8</RecordsPerPage>
+                              <HeaderColorCode />
+                              <ViewId>{C7875DD0-A4E0-4FA3-83D6-BC5294FFE297}</ViewId>
+                              <IsUserView>false</IsUserView>
+                              <ViewIds />
+                              <AutoExpand>Fixed</AutoExpand>
+                              <VisualizationId />
+                              <IsUserChart>false</IsUserChart>
+                              <EnableChartPicker>false</EnableChartPicker>
+                              <RelationshipName />
+                            </parameters>
+                          </control>
+                        </cell>
+                        <cell colspan="2" rowspan="12" showlabel="false" id="{03106ad4-a5f6-4432-9b5d-2bde37fafa64}" auto="false">
+                          <labels>
+                            <label description="Time Tracking Record" languagecode="1033" />
+                          </labels>
+                          <control id="Componentc4e14fe" uniqueid="{dd1abc45-a73d-6255-9ea3-a37b138186c6}" classid="{E7A81278-8635-4d9e-8D4D-59480B391C5B}" indicationOfSubgrid="true">
+                            <parameters>
+                              <TargetEntityType>ow_timetrackingrecord</TargetEntityType>
+                              <ChartGridMode>Chart</ChartGridMode>
+                              <EnableQuickFind>false</EnableQuickFind>
+                              <EnableViewPicker>false</EnableViewPicker>
+                              <EnableJumpBar>false</EnableJumpBar>
+                              <RecordsPerPage>10</RecordsPerPage>
+                              <HeaderColorCode />
+                              <ViewId>{6D16A27B-A205-EC11-94EF-0022482410D9}</ViewId>
+                              <IsUserView>false</IsUserView>
+                              <ViewIds />
+                              <AutoExpand>Fixed</AutoExpand>
+                              <VisualizationId>{A668F00F-A508-EC11-B6E6-000D3A8AF4AE}</VisualizationId>
+                              <IsUserChart>false</IsUserChart>
+                              <EnableChartPicker>false</EnableChartPicker>
+                              <RelationshipName />
+                            </parameters>
+                          </control>
+                        </cell>
+                      </row>
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row>
+                        <cell colspan="2" rowspan="12" showlabel="false" ispreviewcell="true" id="{0bec6208-a3ee-46dc-8a8d-f8df338aa6f9}">
+                          <labels>
+                            <label description="" languagecode="1033" />
+                          </labels>
+                        </cell>
+                        <cell colspan="2" rowspan="12" showlabel="false" ispreviewcell="true" id="{d921b350-1e59-4e32-8604-2a33a01da4c9}">
+                          <labels>
+                            <label description="" languagecode="1033" />
+                          </labels>
+                        </cell>
+                      </row>
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                      <row />
+                    </rows>
+                  </section>
+                </sections>
+              </column>
+            </columns>
+          </tab>
+        </tabs>
+      </form>
+    </forms>
+  </FormXml>
+  <IntroducedVersion>1.0.0.0</IntroducedVersion>
+  <IsTabletEnabled>0</IsTabletEnabled>
+</Dashboard>

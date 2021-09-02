@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>0</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>0</isdefault>
+    <savedqueryid>{b34e5a38-a877-4b2a-8802-0cfb0d160722}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="ow_name" select="1" icon="1" preview="1">
+        <row name="result" id="ow_timetrackingdayid">
+          <cell name="ow_name" width="300" />
+          <cell name="createdon" width="125" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" mapping="logical">
+        <entity name="ow_timetrackingday">
+          <attribute name="ow_timetrackingdayid" />
+          <attribute name="ow_name" />
+          <attribute name="createdon" />
+          <order attribute="ow_name" descending="false" />
+          <filter type="and">
+            <condition attribute="statecode" operator="eq" value="1" />
+          </filter>
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="Inactive Time Tracking Day Records" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

@@ -1,0 +1,113 @@
+12:19:54 AM	
+12:19:54 AM	Extracting C:\Users\Admin\AppData\Local\Temp\tmpAAF3.zip to D:\Projects\Dynamics365JS\Solutions\Main
+12:19:54 AM	
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{3d1ed5f8-45b2-4576-b1e7-ed056ffec3c0}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{70f01323-d33d-488b-bf45-ad97c4eddf7f}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\RibbonDiff.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\Entity.xml
+12:19:54 AM	 - ow_timetrackingproject
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\FormXml\card\{1ecbc554-c461-40ad-9f8d-e2818821efa9}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\FormXml\main\{a63b7edc-beb9-42e5-a98c-21854aca10b1}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\FormXml\quickCreate\{ee0267e2-6bbc-4659-b6c2-a3556fbe8cad}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\FormXml\quick\{7809f7a7-5e50-450b-a6f7-51cefb310ba9}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{9586ad3b-d0ec-43e9-9917-97e5854167da}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{1ad85847-3807-ec11-94ef-0022482410d9}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{5e9e0b0d-ab59-4e9f-8772-6f5eec0ed5a3}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{ae96b688-b100-ec11-94ef-000d3a4f5725}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{99e46fa7-8a7f-49ac-b3d7-261afd46b79f}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{9f63be57-fc68-482b-8c9d-2795b16d9439}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{a7c1394c-21f0-453b-8e0e-42a4534b4ed9}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{f9dafba5-350b-4b68-85b7-9fb9b99afac8}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\RibbonDiff.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\Entity.xml
+12:19:54 AM	 - ow_timetrackingrecord
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\FormXml\card\{bfa89497-53fc-4e1e-a58c-0ff1be5a3c4a}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\FormXml\main\{ba5551bf-fa3e-4eff-a1d6-a3dce4607ce8}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\FormXml\quick\{a0d53c8b-cea6-44f9-a68b-92db2d4ed97f}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{4a416ea3-9203-ec11-94ef-0022482410d9}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{7bc4ad01-2a72-466c-83f9-482fafacedab}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{54107c9c-8679-4340-96e9-80278ffeeb08}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{29c6c31c-b300-ec11-94ef-000d3a4f5725}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{6d16a27b-a205-ec11-94ef-0022482410d9}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{b9a1c98b-4710-4e8e-a01c-36e4eda1b940}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{8612f15f-781e-4619-862f-7f7f8dcf662e}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{f580512f-e228-48a3-9580-f050196a7fbb}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\SavedQueries\{8878954e-72a5-4ad7-89f6-006a240d6da7}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\Visualizations\{A668F00F-A508-EC11-B6E6-000D3A8AF4AE}.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\RibbonDiff.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingrecord\Entity.xml
+12:19:54 AM	Processing Component: Workflows
+12:19:54 AM	 - New business rule
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\Newbusinessrule-94DE621D-1206-EC11-94EF-0022482410D9.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\Newbusinessrule-94DE621D-1206-EC11-94EF-0022482410D9.xaml
+12:19:54 AM	 - New business rule
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\Newbusinessrule-6600EDF6-A008-EC11-B6E6-000D3A8AF4AE.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\Newbusinessrule-6600EDF6-A008-EC11-B6E6-000D3A8AF4AE.xaml
+12:19:54 AM	 - Set Status Submited
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetStatusSubmited-776DA2F5-42F3-4179-9EF4-BC6B73AB31FC.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetStatusSubmited-776DA2F5-42F3-4179-9EF4-BC6B73AB31FC.xaml
+12:19:54 AM	 - Set Approved Status
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetApprovedStatus-05206DA1-B400-42D4-BC8D-BB88D723DC0A.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetApprovedStatus-05206DA1-B400-42D4-BC8D-BB88D723DC0A.xaml
+12:19:54 AM	 - Time Tracking Record Flow
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\TimeTrackingRecordFlow-B78F6F33-3A62-4B94-82CB-EFCA07178E50.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\TimeTrackingRecordFlow-B78F6F33-3A62-4B94-82CB-EFCA07178E50.xaml
+12:19:54 AM	 - Set Day Name
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetDayName-6AF6319C-F6BC-4809-933A-A306E9AB68BE.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetDayName-6AF6319C-F6BC-4809-933A-A306E9AB68BE.xaml
+12:19:54 AM	 - Set Day and Employer
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetDayandEmployer-4402DB1C-6A3C-408E-A89F-04A45A37FA1F.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetDayandEmployer-4402DB1C-6A3C-408E-A89F-04A45A37FA1F.xaml
+12:19:54 AM	 - Grant Permissions To Manager
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\GrantPermissionsToManager-0F9FAD19-FE08-EC11-B6E6-000D3A8AF4AE.json.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\GrantPermissionsToManager-0F9FAD19-FE08-EC11-B6E6-000D3A8AF4AE.json
+12:19:54 AM	 - Some_Action
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\Some_Action-4ED6EDB8-07A3-4756-9A3F-A691352A1055.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\Some_Action-4ED6EDB8-07A3-4756-9A3F-A691352A1055.xaml
+12:19:54 AM	 - On TT Record Creation
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\OnTTRecordCreation-CDA2F385-86DF-47DB-A18D-DEAA94E71693.xaml.data.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\OnTTRecordCreation-CDA2F385-86DF-47DB-A18D-DEAA94E71693.xaml
+12:19:54 AM	 - Set Stage
+12:19:54 AM	Writing: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetStage-2A4F5811-B134-4E35-9FF2-F0DE0C11A2C2.xaml.data.xml
+12:19:54 AM	Writing: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetStage-2A4F5811-B134-4E35-9FF2-F0DE0C11A2C2.xaml
+12:19:54 AM	Processing Component: EntityMaps
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\EntityMaps.xml
+12:19:54 AM	Processing Component: EntityRelationships
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\ow_timetrackingrecord.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\BusinessUnit.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\ProcessStage.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\SystemUser.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\Workflow.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\Organization.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\ow_timetrackingday.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\ow_timetrackingproject.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\Owner.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\Team.xml
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships.xml
+12:19:54 AM	Processing Component: Dashboards
+12:19:54 AM	 - {9713fa2e-b408-ec11-b6e6-000d3a8af4ae}
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Dashboards\{9713fa2e-b408-ec11-b6e6-000d3a8af4ae}.xml
+12:19:54 AM	Processing Component: AppModuleSiteMaps
+12:19:54 AM	 - ow_TimeTracking
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\AppModuleSiteMaps\ow_TimeTracking\AppModuleSiteMap.xml
+12:19:54 AM	 - ow_TimeTrackingOleksWild
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\AppModuleSiteMaps\ow_TimeTrackingOleksWild\AppModuleSiteMap.xml
+12:19:54 AM	Processing Component: AppModules
+12:19:54 AM	 - ow_TimeTrackingOleksWild
+12:19:54 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\AppModules\ow_TimeTrackingOleksWild\AppModule.xml
+12:19:54 AM	Processing Component: CanvasApps
+12:19:55 AM	 - ow_app_6070e
+12:19:55 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\CanvasApps\ow_app_6070e.meta.xml
+12:19:55 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\CanvasApps\ow_app_6070e_BackgroundImageUri
+12:19:55 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\CanvasApps\ow_app_6070e_DocumentUri.msapp
+12:19:55 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Customizations.xml
+12:19:55 AM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Other\Solution.xml
+12:19:55 AM	
+12:19:55 AM	Unmanaged Extract complete.
+12:19:55 AM	
+12:19:55 AM	4 warnings encountered
+12:19:55 AM	Map folder 'D:\Projects\Dynamics365JS\Plugins\bin\' does not exist.
+12:19:55 AM	Map folder 'D:\Projects\Dynamics365JS\Webresources\Webresources\' does not exist.
+12:19:55 AM	Map folder 'D:\Projects\Dynamics365JS\Webresources\Webresources\' does not exist.
+12:19:55 AM	Read-only files will be over-written or deleted.
+12:19:55 AM	CrmSvcUtil Runtime = 00:00:00.5756199

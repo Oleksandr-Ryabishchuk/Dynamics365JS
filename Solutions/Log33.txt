@@ -1,0 +1,60 @@
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\TimeTrackingRecordFlow-B78F6F33-3A62-4B94-82CB-EFCA07178E50.xaml
+11:17:19 PM	 - Set Day Name
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetDayName-6AF6319C-F6BC-4809-933A-A306E9AB68BE.xaml.data.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetDayName-6AF6319C-F6BC-4809-933A-A306E9AB68BE.xaml
+11:17:19 PM	 - Set Day and Employer
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetDayandEmployer-4402DB1C-6A3C-408E-A89F-04A45A37FA1F.xaml.data.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetDayandEmployer-4402DB1C-6A3C-408E-A89F-04A45A37FA1F.xaml
+11:17:19 PM	 - Grant Permissions To Manager
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\GrantPermissionsToManager-0F9FAD19-FE08-EC11-B6E6-000D3A8AF4AE.json.data.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\GrantPermissionsToManager-0F9FAD19-FE08-EC11-B6E6-000D3A8AF4AE.json
+11:17:19 PM	 - Some_Action
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\Some_Action-4ED6EDB8-07A3-4756-9A3F-A691352A1055.xaml.data.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\Some_Action-4ED6EDB8-07A3-4756-9A3F-A691352A1055.xaml
+11:17:19 PM	 - On TT Record Creation
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\OnTTRecordCreation-CDA2F385-86DF-47DB-A18D-DEAA94E71693.xaml.data.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\OnTTRecordCreation-CDA2F385-86DF-47DB-A18D-DEAA94E71693.xaml
+11:17:19 PM	 - Set Stage
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetStage-2A4F5811-B134-4E35-9FF2-F0DE0C11A2C2.xaml.data.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Workflows\SetStage-2A4F5811-B134-4E35-9FF2-F0DE0C11A2C2.xaml
+11:17:19 PM	Processing Component: EntityMaps
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\EntityMaps.xml
+11:17:19 PM	Processing Component: EntityRelationships
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\ow_timetrackingrecord.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\BusinessUnit.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\ProcessStage.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\SystemUser.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\Workflow.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\Organization.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\ow_timetrackingday.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\ow_timetrackingproject.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\Owner.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships\Team.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Relationships.xml
+11:17:19 PM	Processing Component: Dashboards
+11:17:19 PM	 - {9713fa2e-b408-ec11-b6e6-000d3a8af4ae}
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Dashboards\{9713fa2e-b408-ec11-b6e6-000d3a8af4ae}.xml
+11:17:19 PM	Processing Component: AppModuleSiteMaps
+11:17:19 PM	 - ow_TimeTracking
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\AppModuleSiteMaps\ow_TimeTracking\AppModuleSiteMap.xml
+11:17:19 PM	 - ow_TimeTrackingOleksWild
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\AppModuleSiteMaps\ow_TimeTrackingOleksWild\AppModuleSiteMap.xml
+11:17:19 PM	Processing Component: AppModules
+11:17:19 PM	 - ow_TimeTrackingOleksWild
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\AppModules\ow_TimeTrackingOleksWild\AppModule.xml
+11:17:19 PM	Processing Component: CanvasApps
+11:17:19 PM	 - ow_app_6070e
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\CanvasApps\ow_app_6070e.meta.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\CanvasApps\ow_app_6070e_BackgroundImageUri
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\CanvasApps\ow_app_6070e_DocumentUri.msapp
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Customizations.xml
+11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Other\Solution.xml
+11:17:19 PM	
+11:17:19 PM	Unmanaged Extract complete.
+11:17:19 PM	
+11:17:20 PM	4 warnings encountered
+11:17:20 PM	Map folder 'D:\Projects\Dynamics365JS\Plugins\bin\' does not exist.
+11:17:20 PM	Map folder 'D:\Projects\Dynamics365JS\Webresources\Webresources\' does not exist.
+11:17:20 PM	Map folder 'D:\Projects\Dynamics365JS\Webresources\Webresources\' does not exist.
+11:17:20 PM	Read-only files will be over-written or deleted.
+11:17:20 PM	CrmSvcUtil Runtime = 00:00:00.6398927

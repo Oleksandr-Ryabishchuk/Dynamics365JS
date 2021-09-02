@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml version="9.2.21074.132" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>TimeTrackingOleksWild</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="TimeTracking-OleksWild" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.0</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>olekswild</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="OleksWild" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>ow</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>26700</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="ow_approval" behavior="0" />
+      <RootComponent type="1" schemaName="ow_projectassignment" behavior="0" />
+      <RootComponent type="1" schemaName="ow_timetrackingday" behavior="0" />
+      <RootComponent type="1" schemaName="ow_timetrackingproject" behavior="0" />
+      <RootComponent type="1" schemaName="ow_timetrackingrecord" behavior="0" />
+      <RootComponent type="29" id="{05206da1-b400-42d4-bc8d-bb88d723dc0a}" behavior="0" />
+      <RootComponent type="29" id="{0f9fad19-fe08-ec11-b6e6-000d3a8af4ae}" behavior="0" />
+      <RootComponent type="29" id="{2a4f5811-b134-4e35-9ff2-f0de0c11a2c2}" behavior="0" />
+      <RootComponent type="29" id="{4402db1c-6a3c-408e-a89f-04a45a37fa1f}" behavior="0" />
+      <RootComponent type="29" id="{4ed6edb8-07a3-4756-9a3f-a691352a1055}" behavior="0" />
+      <RootComponent type="29" id="{6600edf6-a008-ec11-b6e6-000d3a8af4ae}" behavior="0" />
+      <RootComponent type="29" id="{6af6319c-f6bc-4809-933a-a306e9ab68be}" behavior="0" />
+      <RootComponent type="29" id="{776da2f5-42f3-4179-9ef4-bc6b73ab31fc}" behavior="0" />
+      <RootComponent type="29" id="{94de621d-1206-ec11-94ef-0022482410d9}" behavior="0" />
+      <RootComponent type="29" id="{b78f6f33-3a62-4b94-82cb-efca07178e50}" behavior="0" />
+      <RootComponent type="29" id="{cda2f385-86df-47db-a18d-deaa94e71693}" behavior="0" />
+      <RootComponent type="60" id="{9713fa2e-b408-ec11-b6e6-000d3a8af4ae}" behavior="0" />
+      <RootComponent type="62" schemaName="ow_TimeTracking" behavior="0" />
+      <RootComponent type="62" schemaName="ow_TimeTrackingOleksWild" behavior="0" />
+      <RootComponent type="80" schemaName="ow_TimeTrackingOleksWild" behavior="0" />
+      <RootComponent type="300" schemaName="ow_app_6070e" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="61" schemaName="msdyn_/Images/AppModule_Default_Icon.png" displayName="msdyn_/Images/AppModule_Default_Icon.png" solution="AppModuleWebResources (2.5)" />
+        <Dependent type="80" schemaName="ow_TimeTrackingOleksWild" displayName="TimeTracking-OleksWild" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="66" schemaName="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" displayName="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" solution="msdyn_UCICalendar (1.0.0.1287)" />
+        <Dependent type="26" schemaName="Active Time Tracking Day Records" displayName="Active Time Tracking Day Records" parentSchemaName="ow_timetrackingday" parentDisplayName="Time Tracking Day" id="{c7875dd0-a4e0-4fa3-83d6-bc5294ffe297}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="66" schemaName="MscrmControls.Canvas.CanvasControl" displayName="MscrmControls.Canvas.CanvasControl" solution="BaseCustomControlsCore (9.0.2107.4011)" />
+        <Dependent type="60" displayName="Information" parentDisplayName="Time Tracking Record" id="{ba5551bf-fa3e-4eff-a1d6-a3dce4607ce8}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="66" schemaName="MscrmControls.Grid.GridControl" displayName="MscrmControls.Grid.GridControl" solution="BaseCustomControlsCore (9.0.2107.4011)" />
+        <Dependent type="68" id="{3af684f2-429a-411b-be65-032ce2c86f66}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="66" schemaName="MscrmControls.Grid.ReadOnlyGrid" displayName="MscrmControls.Grid.ReadOnlyGrid" solution="BaseCustomControlsCore (9.0.2107.4011)" />
+        <Dependent type="26" schemaName="Card_Form_View" displayName="Card_Form_View" parentSchemaName="ow_timetrackingproject" parentDisplayName="Time Tracking Project" id="{1ad85847-3807-ec11-94ef-0022482410d9}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="66" schemaName="MscrmControls.NumberInput.NumberInputControl" displayName="MscrmControls.NumberInput.NumberInputControl" solution="BaseCustomControlsCore (9.0.2107.4011)" />
+        <Dependent type="60" displayName="Information" parentDisplayName="Time Tracking Record" id="{ba5551bf-fa3e-4eff-a1d6-a3dce4607ce8}" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>

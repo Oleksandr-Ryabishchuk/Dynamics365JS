@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>0</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>0</isdefault>
+    <savedqueryid>{7bc4ad01-2a72-466c-83f9-482fafacedab}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="ow_name" select="1" icon="1" preview="1">
+        <row name="result" id="ow_timetrackingrecordid">
+          <cell name="ow_date" width="100" />
+          <cell name="ow_employee" width="100" />
+          <cell name="ow_reportedhours" width="100" />
+          <cell name="ow_type" width="100" />
+          <cell name="ow_project" width="100" />
+          <cell name="statuscode" width="100" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" mapping="logical">
+        <entity name="ow_timetrackingrecord">
+          <order attribute="ow_date" descending="false" />
+          <filter type="and">
+            <condition attribute="statecode" operator="eq" value="0" />
+          </filter>
+          <attribute name="ow_type" />
+          <attribute name="statuscode" />
+          <attribute name="ow_reportedhours" />
+          <attribute name="ow_employee" />
+          <attribute name="ow_date" />
+          <attribute name="ow_project" />
+          <attribute name="ow_timetrackingrecordid" />
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.0.0.0</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="Active Time Tracking Records" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

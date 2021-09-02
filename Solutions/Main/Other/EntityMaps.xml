@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityMaps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityMap>
+    <EntitySource>ow_timetrackingday</EntitySource>
+    <EntityTarget>ow_timetrackingrecord</EntityTarget>
+    <AttributeMaps>
+      <AttributeMap>
+        <AttributeSource>ow_date</AttributeSource>
+        <AttributeTarget>ow_date</AttributeTarget>
+      </AttributeMap>
+      <AttributeMap>
+        <AttributeSource>ow_employee</AttributeSource>
+        <AttributeTarget>ow_employee</AttributeTarget>
+      </AttributeMap>
+    </AttributeMaps>
+  </EntityMap>
+</EntityMaps>
