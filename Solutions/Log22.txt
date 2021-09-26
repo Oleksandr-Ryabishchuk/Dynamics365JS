@@ -13,3 +13,29 @@
 11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{99e46fa7-8a7f-49ac-b3d7-261afd46b79f}.xml
 11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{9f63be57-fc68-482b-8c9d-2795b16d9439}.xml
 11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\SavedQueries\{a7c1394c-21f0-453b-8e0e-42a4534b4ed9}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_projectassignment\SavedQueries\{94396f30-1065-4022-81d4-fa43304d9395}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_projectassignment\SavedQueries\{1cb547a5-12af-45d7-b5ee-a4c904fd3dd2}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_projectassignment\SavedQueries\{c7b54bc0-384b-4c8a-9dda-3523ec264bbe}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_projectassignment\SavedQueries\{e172aa95-5732-472f-abc4-b6d2773ffe42}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_projectassignment\RibbonDiff.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_projectassignment\Entity.xml
+2:02:51 PM	 - ow_timetrackingday
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\Formulas/ow_timetrackingday-ow_title.xaml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\Formulas/ow_timetrackingday-ow_totalhours.xaml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\FormXml\card\{c260fa56-15ca-4b8a-bc10-4a64734700c5}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\FormXml\main\{0227185c-0591-485c-b7aa-390596c94350}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\FormXml\quick\{3cd79a78-2b28-4c4c-b07f-069beb3a4ff7}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{c7875dd0-a4e0-4fa3-83d6-bc5294ffe297}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{b34e5a38-a877-4b2a-8802-0cfb0d160722}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{5e8ff0b2-b200-ec11-94ef-000d3a4f5725}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{da515d6b-2b05-ec11-94ef-0022482410d9}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{0ddbbec0-6134-4611-826e-f52b1471d226}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{77d008b6-8eed-463d-99e7-c4ff5c92747a}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{3d1ed5f8-45b2-4576-b1e7-ed056ffec3c0}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{70f01323-d33d-488b-bf45-ad97c4eddf7f}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\RibbonDiff.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\Entity.xml
+2:02:51 PM	 - ow_timetrackingproject
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\FormXml\card\{1ecbc554-c461-40ad-9f8d-e2818821efa9}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\FormXml\main\{a63b7edc-beb9-42e5-a98c-21854aca10b1}.xml
+2:02:51 PM	No change: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingproject\FormXml\quickCreate\{ee0267e2-6bbc-4659-b6c2-a3556fbe8cad}.xml

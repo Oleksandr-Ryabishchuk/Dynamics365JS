@@ -1,0 +1,7 @@
+10:37:12 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+10:37:12 PM	Map folder 'D:\Projects\Dynamics365JS\Plugins\bin\' does not exist.
+10:37:12 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+10:37:12 PM	Map folder 'D:\Projects\Dynamics365JS\Webresources\Webresources\' does not exist.
+10:37:12 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+10:37:12 PM	Map folder 'D:\Projects\Dynamics365JS\Webresources\Webresources\' does not exist.
+10:37:12 PM	Read-only files will be over-written or deleted.

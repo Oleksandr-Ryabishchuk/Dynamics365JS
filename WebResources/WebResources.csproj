@@ -88,6 +88,8 @@
     <Content Include="bin\coretools\System.ValueTuple.dll" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
     <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="Source\html\ProjectFormInfo.html" />
+    <Content Include="Source\JS\TimeTrackingRecordForm.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

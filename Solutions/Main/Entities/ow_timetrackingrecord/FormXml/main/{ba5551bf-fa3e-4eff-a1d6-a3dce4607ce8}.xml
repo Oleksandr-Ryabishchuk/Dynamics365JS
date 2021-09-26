@@ -5,7 +5,7 @@
     <IntroducedVersion>1.0.0.0</IntroducedVersion>
     <FormPresentation>1</FormPresentation>
     <FormActivationState>1</FormActivationState>
-    <form>
+    <form shownavigationbar="true" showImage="false" maxWidth="1920">
       <tabs>
         <tab verticallayout="true" id="{fc1852e8-948c-42dc-b980-f3b8f71961cb}" IsUserDefined="1" name="{fc1852e8-948c-42dc-b980-f3b8f71961cb}" locklevel="0" expanded="true" showlabel="true">
           <labels>
@@ -209,6 +209,16 @@
           </customControl>
         </controlDescription>
       </controlDescriptions>
+      <formLibraries>
+        <Library name="ow_TimeTrackingRecordForm.js" libraryUniqueId="{13695904-7851-37e4-b9d8-93e0c965270c}" />
+      </formLibraries>
+      <events>
+        <event name="onload" application="false" active="false">
+          <Handlers>
+            <Handler functionName="Enavate.TimeTracking.Forms.TimeTrackingRecordForm.formOnLoad" libraryName="ow_TimeTrackingRecordForm.js" handlerUniqueId="{45cab3c5-c9ae-4de5-c69e-4a12691b29ed}" enabled="true" parameters="" passExecutionContext="true" />
+          </Handlers>
+        </event>
+      </events>
     </form>
     <IsCustomizable>1</IsCustomizable>
     <CanBeDeleted>1</CanBeDeleted>

@@ -1,0 +1,6 @@
+10:37:12 PM	Reading mapping directives...
+10:37:12 PM	
+10:37:12 PM	Extracting C:\Users\Admin\AppData\Local\Temp\tmp11D8.zip to D:\Projects\Dynamics365JS\Solutions\Main
+10:37:12 PM	
+10:37:12 PM	Skipping localization
+10:37:12 PM	CrmSvcUtil Runtime = 00:00:00.5282530

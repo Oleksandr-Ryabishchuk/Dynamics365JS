@@ -1,0 +1,41 @@
+﻿<html>
+<head>
+    <script type="text/javascript" src="ClientGlobalContext.js.aspx"></script>
+    <meta>
+</head>
+<body onfocusout="parent.setEmailRange();" style="overflow-wrap: break-word;">
+    <h1>Hello Lviv</h1>
+    <button onclick="onloadHandler()">Show data</button>
+    <div id="projectDetails"></div>
+
+
+
+    <script>
+        function onloadHandler() {
+            //var Xrm = parent.Xrm;
+            //var projectId = Xrm.Page.data.entity.getId();
+
+            let parameters = GetGlobalContext().getQueryStringParameters();
+            let customparams = parameters.data;
+            let projectId = parameters.id;
+
+            Xrm.WebApi.online.retrieveMultipleRecords(`ow_timetrackingrecord`, `?$select=_ow_day_value,_ow_employee_value,ow_reportedhours&$filter=_ow_project_value eq ${projectId}&$orderby=ow_date asc`).then(
+                function success(results) {
+                    let resultData = "";
+                    results.entities.forEach((record) => {
+                        let emp = record[`_ow_employee_value@OData.Community.Display.V1.FormattedValue`];
+                        let date = record[`ow_date`];
+                        let hours = record[`ow_reportedhours`];
+                        resultData += `<p>${emp}-${date}-${hours}</p>`;
+                    });
+                    var d = document.getElementById("projectDetails");
+                    d.innerHTML = resultData;
+                },
+                function (error) {
+                    Xrm.Utility.alertDialog(error.message);
+                }
+            );
+        }
+    </script>
+</body>
+</html>

@@ -65,6 +65,8 @@
     <Content Include="bin\coretools\SolutionPackagerLib.dll" />
     <Content Include="bin\coretools\System.Diagnostics.DiagnosticSource.dll" />
     <Content Include="bin\coretools\System.ValueTuple.dll" />
+    <Content Include="Source\html\ProjectFormInfo.html" />
+    <Content Include="Source\JS\TimeTrackingRecordForm.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\coretools\CrmSvcUtil.exe.config" />

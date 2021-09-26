@@ -21,3 +21,34 @@
 12:19:54 AM	Map xml created at 'D:\Projects\Dynamics365JS\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\packager_map.xml'
 12:19:54 AM	Running D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\Admin\AppData\Local\Temp\tmpAAF3.zip" /folder:"D:\Projects\Dynamics365JS\Solutions\Main" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml /clobber
 12:19:55 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+1:52:48 PM	Deploying WebResources
+1:52:48 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:00:48 PM	Unpacking solution
+2:00:48 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+2:00:48 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:02:50 PM	Target D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools
+2:02:50 PM	Map xml created at 'D:\Projects\Dynamics365JS\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\packager_map.xml'
+2:02:50 PM	Running D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\Admin\AppData\Local\Temp\tmp48DF.zip" /folder:"D:\Projects\Dynamics365JS\Solutions\Main" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml /clobber
+2:02:51 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:26:36 PM	Unpacking solution
+10:26:36 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+10:26:36 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:32:50 PM	Unpacking solution
+10:32:50 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+10:32:50 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:37:11 PM	Target D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools
+10:37:11 PM	Map xml created at 'D:\Projects\Dynamics365JS\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\packager_map.xml'
+10:37:11 PM	Running D:\Projects\Dynamics365JS\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\Admin\AppData\Local\Temp\tmp11D8.zip" /folder:"D:\Projects\Dynamics365JS\Solutions\Main" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml /clobber
+10:37:12 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:18:33 PM	Unpacking solution
+10:18:33 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+10:18:33 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:25:25 PM	Unpacking solution
+10:25:25 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+10:25:25 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+12:51:28 PM	Unpacking solution
+12:51:28 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+12:51:28 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:03:31 PM	Unpacking solution
+11:03:31 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Solutions\..'
+11:03:31 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'

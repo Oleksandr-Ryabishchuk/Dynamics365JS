@@ -38,3 +38,6 @@
 11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{0ddbbec0-6134-4611-826e-f52b1471d226}.xml
 11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{77d008b6-8eed-463d-99e7-c4ff5c92747a}.xml
 11:17:19 PM	Creating: D:\Projects\Dynamics365JS\Solutions\Main\Entities\ow_timetrackingday\SavedQueries\{3d1ed5f8-45b2-4576-b1e7-ed056ffec3c0}.xml
+2:02:51 PM	
+2:02:51 PM	Extracting C:\Users\Admin\AppData\Local\Temp\tmp48DF.zip to D:\Projects\Dynamics365JS\Solutions\Main
+2:02:51 PM	

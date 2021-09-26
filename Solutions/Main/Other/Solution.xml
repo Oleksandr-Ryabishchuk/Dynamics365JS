@@ -95,6 +95,7 @@
       <RootComponent type="29" id="{b78f6f33-3a62-4b94-82cb-efca07178e50}" behavior="0" />
       <RootComponent type="29" id="{cda2f385-86df-47db-a18d-deaa94e71693}" behavior="0" />
       <RootComponent type="60" id="{9713fa2e-b408-ec11-b6e6-000d3a8af4ae}" behavior="0" />
+      <RootComponent type="61" schemaName="ow_TimeTrackingRecordForm.js" behavior="0" />
       <RootComponent type="62" schemaName="ow_TimeTracking" behavior="0" />
       <RootComponent type="62" schemaName="ow_TimeTrackingOleksWild" behavior="0" />
       <RootComponent type="80" schemaName="ow_TimeTrackingOleksWild" behavior="0" />

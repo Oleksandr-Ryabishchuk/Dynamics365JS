@@ -1,0 +1,1223 @@
+2:04:14 PM	Deploying WebResources
+2:04:14 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:16:57 PM	Deploying WebResources
+2:16:57 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:19:03 PM	Deploying WebResources
+2:19:03 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:24:37 PM	Deploying WebResources
+2:24:37 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:25:41 PM	Deploying WebResources
+2:25:41 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:26:07 PM	Deploying WebResources
+2:26:07 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:27:53 PM	Deploying WebResources
+2:27:53 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:29:01 PM	Deploying WebResources
+2:29:01 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:29:49 PM	Deploying WebResources
+2:29:49 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:29:49 PM	Creating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:29:53 PM	Adding to solution 'TimeTrackingOleksWild'
+2:29:55 PM	Deployed 1 webresource(s)
+2:29:55 PM	Publishing 1 webresources...
+2:30:17 PM	Publish complete.
+2:30:17 PM	Processed 1 section(s)
+2:30:17 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+2:30:18 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+2:30:18 PM	Deployed 0 webresource(s)
+2:30:18 PM	Publishing 0 webresources...
+2:30:18 PM	Publish complete.
+2:30:18 PM	Processed 1 section(s)
+2:30:18 PM	Processed 2 config(s)
+3:33:32 PM	Deploying WebResources
+3:33:32 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:33:33 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+3:33:33 PM	Deployed 0 webresource(s)
+3:33:33 PM	Publishing 0 webresources...
+3:33:33 PM	Publish complete.
+3:33:33 PM	Processed 1 section(s)
+3:33:33 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:33:33 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:33:35 PM	Adding to solution 'TimeTracking'
+3:34:44 PM	Deploying WebResources
+3:34:44 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:34:45 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+3:34:45 PM	Deployed 0 webresource(s)
+3:34:45 PM	Publishing 0 webresources...
+3:34:45 PM	Publish complete.
+3:34:45 PM	Processed 1 section(s)
+3:34:45 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:34:45 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:34:46 PM	Adding to solution 'TimeTrackingOleksWild'
+3:34:47 PM	Deployed 1 webresource(s)
+3:34:47 PM	Publishing 1 webresources...
+3:34:52 PM	Publish complete.
+3:34:52 PM	Processed 1 section(s)
+3:34:52 PM	Processed 2 config(s)
+10:48:19 PM	Deploying WebResources
+10:48:19 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:48:20 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:48:24 PM	Adding to solution 'TimeTrackingOleksWild'
+10:48:26 PM	Deployed 1 webresource(s)
+10:48:26 PM	Publishing 1 webresources...
+10:48:35 PM	Publish complete.
+10:48:35 PM	Processed 1 section(s)
+10:48:35 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:48:35 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:48:37 PM	Adding to solution 'TimeTrackingOleksWild'
+10:48:37 PM	Deployed 1 webresource(s)
+10:48:37 PM	Publishing 1 webresources...
+10:48:41 PM	Publish complete.
+10:48:41 PM	Processed 1 section(s)
+10:48:41 PM	Processed 2 config(s)
+11:00:38 PM	Deploying WebResources
+11:00:38 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:00:38 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:00:39 PM	Adding to solution 'TimeTrackingOleksWild'
+11:00:40 PM	Deployed 1 webresource(s)
+11:00:40 PM	Publishing 1 webresources...
+11:00:44 PM	Publish complete.
+11:00:44 PM	Processed 1 section(s)
+11:00:44 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:00:44 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:00:48 PM	Adding to solution 'TimeTrackingOleksWild'
+11:00:48 PM	Deployed 1 webresource(s)
+11:00:48 PM	Publishing 1 webresources...
+11:00:52 PM	Publish complete.
+11:00:52 PM	Processed 1 section(s)
+11:00:52 PM	Processed 2 config(s)
+11:02:40 PM	Deploying WebResources
+11:02:40 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:02:40 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:02:41 PM	Adding to solution 'TimeTrackingOleksWild'
+11:02:42 PM	Deployed 1 webresource(s)
+11:02:42 PM	Publishing 1 webresources...
+11:02:46 PM	Publish complete.
+11:02:46 PM	Processed 1 section(s)
+11:02:46 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:02:46 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:02:47 PM	Adding to solution 'TimeTrackingOleksWild'
+11:02:47 PM	Deployed 1 webresource(s)
+11:02:47 PM	Publishing 1 webresources...
+11:02:51 PM	Publish complete.
+11:02:51 PM	Processed 1 section(s)
+11:02:51 PM	Processed 2 config(s)
+11:03:04 PM	Deploying WebResources
+11:03:04 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:03:04 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:03:05 PM	Adding to solution 'TimeTrackingOleksWild'
+11:03:06 PM	Deployed 1 webresource(s)
+11:03:06 PM	Publishing 1 webresources...
+11:03:11 PM	Publish complete.
+11:03:11 PM	Processed 1 section(s)
+11:03:11 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:03:11 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:03:12 PM	Adding to solution 'TimeTrackingOleksWild'
+11:03:13 PM	Deployed 1 webresource(s)
+11:03:13 PM	Publishing 1 webresources...
+11:03:18 PM	Publish complete.
+11:03:18 PM	Processed 1 section(s)
+11:03:18 PM	Processed 2 config(s)
+11:05:31 PM	Deploying WebResources
+11:05:31 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:05:32 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:05:33 PM	Adding to solution 'TimeTrackingOleksWild'
+11:05:34 PM	Deployed 1 webresource(s)
+11:05:34 PM	Publishing 1 webresources...
+11:05:40 PM	Publish complete.
+11:05:40 PM	Processed 1 section(s)
+11:05:40 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:05:40 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:05:41 PM	Adding to solution 'TimeTrackingOleksWild'
+11:05:41 PM	Deployed 1 webresource(s)
+11:05:41 PM	Publishing 1 webresources...
+11:05:45 PM	Publish complete.
+11:05:45 PM	Processed 1 section(s)
+11:05:45 PM	Processed 2 config(s)
+11:07:00 PM	Deploying WebResources
+11:07:01 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:07:01 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:07:02 PM	Adding to solution 'TimeTrackingOleksWild'
+11:07:02 PM	Deployed 1 webresource(s)
+11:07:02 PM	Publishing 1 webresources...
+11:07:06 PM	Publish complete.
+11:07:06 PM	Processed 1 section(s)
+11:07:06 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:07:07 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:07:07 PM	Adding to solution 'TimeTrackingOleksWild'
+11:07:08 PM	Deployed 1 webresource(s)
+11:07:08 PM	Publishing 1 webresources...
+11:07:11 PM	Publish complete.
+11:07:11 PM	Processed 1 section(s)
+11:07:11 PM	Processed 2 config(s)
+3:19:24 PM	Deploying WebResources
+3:19:24 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:19:25 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:19:26 PM	Adding to solution 'TimeTrackingOleksWild'
+3:19:27 PM	Deployed 1 webresource(s)
+3:19:27 PM	Publishing 1 webresources...
+3:20:25 PM	Deploying WebResources
+3:20:25 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:20:26 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:20:27 PM	Adding to solution 'TimeTrackingOleksWild'
+3:20:28 PM	Deployed 1 webresource(s)
+3:20:28 PM	Publishing 1 webresources...
+3:20:35 PM	Publish complete.
+3:20:35 PM	Processed 1 section(s)
+3:20:35 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:20:36 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:20:36 PM	Adding to solution 'TimeTrackingOleksWild'
+3:20:37 PM	Deployed 1 webresource(s)
+3:20:37 PM	Publishing 1 webresources...
+3:20:41 PM	Publish complete.
+3:20:41 PM	Processed 1 section(s)
+3:20:41 PM	Processed 2 config(s)
+3:27:18 PM	Deploying WebResources
+3:27:18 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:27:19 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:27:20 PM	Adding to solution 'TimeTrackingOleksWild'
+3:27:20 PM	Deployed 1 webresource(s)
+3:27:20 PM	Publishing 1 webresources...
+3:27:25 PM	Publish complete.
+3:27:25 PM	Processed 1 section(s)
+3:27:25 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:27:25 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:27:26 PM	Adding to solution 'TimeTrackingOleksWild'
+3:27:26 PM	Deployed 1 webresource(s)
+3:27:26 PM	Publishing 1 webresources...
+3:27:30 PM	Publish complete.
+3:27:30 PM	Processed 1 section(s)
+3:27:30 PM	Processed 2 config(s)
+3:32:00 PM	Deploying WebResources
+3:32:00 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:32:00 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:32:01 PM	Adding to solution 'TimeTrackingOleksWild'
+3:32:01 PM	Deployed 1 webresource(s)
+3:32:01 PM	Publishing 1 webresources...
+3:32:06 PM	Publish complete.
+3:32:06 PM	Processed 1 section(s)
+3:32:06 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:32:06 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:32:07 PM	Adding to solution 'TimeTrackingOleksWild'
+3:32:07 PM	Deployed 1 webresource(s)
+3:32:07 PM	Publishing 1 webresources...
+3:32:11 PM	Publish complete.
+3:32:11 PM	Processed 1 section(s)
+3:32:11 PM	Processed 2 config(s)
+3:48:37 PM	Deploying WebResources
+3:48:37 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:48:37 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:48:39 PM	Adding to solution 'TimeTrackingOleksWild'
+3:48:40 PM	Deployed 1 webresource(s)
+3:48:40 PM	Publishing 1 webresources...
+3:48:47 PM	Publish complete.
+3:48:47 PM	Processed 1 section(s)
+3:48:47 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:48:47 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:48:48 PM	Adding to solution 'TimeTrackingOleksWild'
+3:48:49 PM	Deployed 1 webresource(s)
+3:48:49 PM	Publishing 1 webresources...
+3:48:55 PM	Publish complete.
+3:48:55 PM	Processed 1 section(s)
+3:48:55 PM	Processed 2 config(s)
+3:51:50 PM	Deploying WebResources
+3:51:50 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:51:50 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:51:52 PM	Adding to solution 'TimeTrackingOleksWild'
+3:51:52 PM	Deployed 1 webresource(s)
+3:51:52 PM	Publishing 1 webresources...
+3:51:56 PM	Publish complete.
+3:51:56 PM	Processed 1 section(s)
+3:51:56 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:51:57 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:51:58 PM	Adding to solution 'TimeTrackingOleksWild'
+3:51:58 PM	Deployed 1 webresource(s)
+3:51:58 PM	Publishing 1 webresources...
+3:52:03 PM	Publish complete.
+3:52:03 PM	Processed 1 section(s)
+3:52:03 PM	Processed 2 config(s)
+3:53:18 PM	Deploying WebResources
+3:53:19 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:53:19 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:53:20 PM	Adding to solution 'TimeTrackingOleksWild'
+3:53:21 PM	Deployed 1 webresource(s)
+3:53:21 PM	Publishing 1 webresources...
+3:53:26 PM	Publish complete.
+3:53:26 PM	Processed 1 section(s)
+3:53:26 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:53:26 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:53:27 PM	Adding to solution 'TimeTrackingOleksWild'
+3:53:27 PM	Deployed 1 webresource(s)
+3:53:27 PM	Publishing 1 webresources...
+3:53:32 PM	Publish complete.
+3:53:32 PM	Processed 1 section(s)
+3:53:32 PM	Processed 2 config(s)
+4:06:49 PM	Deploying WebResources
+4:06:49 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:06:50 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:06:51 PM	Adding to solution 'TimeTrackingOleksWild'
+4:06:51 PM	Deployed 1 webresource(s)
+4:06:51 PM	Publishing 1 webresources...
+4:06:59 PM	Publish complete.
+4:06:59 PM	Processed 1 section(s)
+4:06:59 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:06:59 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:07:00 PM	Adding to solution 'TimeTrackingOleksWild'
+4:07:01 PM	Deployed 1 webresource(s)
+4:07:01 PM	Publishing 1 webresources...
+4:07:06 PM	Publish complete.
+4:07:06 PM	Processed 1 section(s)
+4:07:06 PM	Processed 2 config(s)
+4:29:40 PM	Deploying WebResources
+4:29:40 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:29:40 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:29:41 PM	Adding to solution 'TimeTrackingOleksWild'
+4:29:42 PM	Deployed 1 webresource(s)
+4:29:42 PM	Publishing 1 webresources...
+4:29:46 PM	Publish complete.
+4:29:46 PM	Processed 1 section(s)
+4:29:46 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:29:46 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:29:47 PM	Adding to solution 'TimeTrackingOleksWild'
+4:29:47 PM	Deployed 1 webresource(s)
+4:29:47 PM	Publishing 1 webresources...
+4:29:51 PM	Publish complete.
+4:29:51 PM	Processed 1 section(s)
+4:29:51 PM	Processed 2 config(s)
+4:37:34 PM	Deploying WebResources
+4:37:34 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:37:34 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:37:35 PM	Adding to solution 'TimeTrackingOleksWild'
+4:37:36 PM	Deployed 1 webresource(s)
+4:37:36 PM	Publishing 1 webresources...
+4:37:40 PM	Publish complete.
+4:37:40 PM	Processed 1 section(s)
+4:37:40 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:37:40 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:37:41 PM	Adding to solution 'TimeTrackingOleksWild'
+4:37:42 PM	Deployed 1 webresource(s)
+4:37:42 PM	Publishing 1 webresources...
+4:37:45 PM	Publish complete.
+4:37:45 PM	Processed 1 section(s)
+4:37:45 PM	Processed 2 config(s)
+4:39:00 PM	Deploying WebResources
+4:39:01 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:39:01 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:39:02 PM	Adding to solution 'TimeTrackingOleksWild'
+4:39:02 PM	Deployed 1 webresource(s)
+4:39:02 PM	Publishing 1 webresources...
+4:39:07 PM	Publish complete.
+4:39:07 PM	Processed 1 section(s)
+4:39:07 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:39:08 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:39:10 PM	Adding to solution 'TimeTrackingOleksWild'
+4:39:10 PM	Deployed 1 webresource(s)
+4:39:10 PM	Publishing 1 webresources...
+4:39:14 PM	Publish complete.
+4:39:14 PM	Processed 1 section(s)
+4:39:14 PM	Processed 2 config(s)
+4:39:42 PM	Deploying WebResources
+4:39:42 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:39:43 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:39:44 PM	Adding to solution 'TimeTrackingOleksWild'
+4:39:44 PM	Deployed 1 webresource(s)
+4:39:44 PM	Publishing 1 webresources...
+4:39:48 PM	Publish complete.
+4:39:48 PM	Processed 1 section(s)
+4:39:48 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:39:49 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:39:50 PM	Adding to solution 'TimeTrackingOleksWild'
+4:39:50 PM	Deployed 1 webresource(s)
+4:39:50 PM	Publishing 1 webresources...
+4:39:55 PM	Publish complete.
+4:39:55 PM	Processed 1 section(s)
+4:39:55 PM	Processed 2 config(s)
+4:40:44 PM	Deploying WebResources
+4:40:44 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:40:44 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:40:45 PM	Adding to solution 'TimeTrackingOleksWild'
+4:40:46 PM	Deployed 1 webresource(s)
+4:40:46 PM	Publishing 1 webresources...
+4:40:50 PM	Publish complete.
+4:40:50 PM	Processed 1 section(s)
+4:40:50 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:40:50 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:40:51 PM	Adding to solution 'TimeTrackingOleksWild'
+4:40:52 PM	Deployed 1 webresource(s)
+4:40:52 PM	Publishing 1 webresources...
+4:40:56 PM	Publish complete.
+4:40:56 PM	Processed 1 section(s)
+4:40:56 PM	Processed 2 config(s)
+4:43:06 PM	Deploying WebResources
+4:43:06 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:43:06 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:43:07 PM	Adding to solution 'TimeTrackingOleksWild'
+4:43:08 PM	Deployed 1 webresource(s)
+4:43:08 PM	Publishing 1 webresources...
+4:43:13 PM	Publish complete.
+4:43:13 PM	Processed 1 section(s)
+4:43:13 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:43:13 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:43:15 PM	Adding to solution 'TimeTrackingOleksWild'
+4:43:15 PM	Deployed 1 webresource(s)
+4:43:15 PM	Publishing 1 webresources...
+4:43:20 PM	Publish complete.
+4:43:20 PM	Processed 1 section(s)
+4:43:20 PM	Processed 2 config(s)
+9:53:01 PM	Deploying WebResources
+9:53:01 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+9:53:01 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+9:53:05 PM	Adding to solution 'TimeTrackingOleksWild'
+9:53:06 PM	Deployed 1 webresource(s)
+9:53:06 PM	Publishing 1 webresources...
+9:53:27 PM	Publish complete.
+9:53:27 PM	Processed 1 section(s)
+9:53:27 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+9:53:27 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+9:53:28 PM	Adding to solution 'TimeTrackingOleksWild'
+9:53:29 PM	Deployed 1 webresource(s)
+9:53:29 PM	Publishing 1 webresources...
+9:53:33 PM	Publish complete.
+9:53:33 PM	Processed 1 section(s)
+9:53:33 PM	Processed 2 config(s)
+9:54:16 PM	Deploying WebResources
+9:54:16 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+9:54:17 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+9:54:17 PM	Adding to solution 'TimeTrackingOleksWild'
+9:54:18 PM	Deployed 1 webresource(s)
+9:54:18 PM	Publishing 1 webresources...
+9:54:21 PM	Publish complete.
+9:54:21 PM	Processed 1 section(s)
+9:54:21 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+9:54:22 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+9:54:23 PM	Adding to solution 'TimeTrackingOleksWild'
+9:54:23 PM	Deployed 1 webresource(s)
+9:54:23 PM	Publishing 1 webresources...
+9:54:29 PM	Publish complete.
+9:54:29 PM	Processed 1 section(s)
+9:54:29 PM	Processed 2 config(s)
+10:33:57 PM	Deploying WebResources
+10:33:58 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:33:58 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:33:59 PM	Adding to solution 'TimeTrackingOleksWild'
+10:33:59 PM	Deployed 1 webresource(s)
+10:33:59 PM	Publishing 1 webresources...
+10:34:03 PM	Publish complete.
+10:34:03 PM	Processed 1 section(s)
+10:34:03 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:34:03 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:34:04 PM	Adding to solution 'TimeTrackingOleksWild'
+10:34:05 PM	Deployed 1 webresource(s)
+10:34:05 PM	Publishing 1 webresources...
+10:34:09 PM	Publish complete.
+10:34:09 PM	Processed 1 section(s)
+10:34:09 PM	Processed 2 config(s)
+10:48:30 PM	Deploying WebResources
+10:48:30 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:48:31 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:48:32 PM	Adding to solution 'TimeTrackingOleksWild'
+10:48:33 PM	Deployed 1 webresource(s)
+10:48:33 PM	Publishing 1 webresources...
+10:48:38 PM	Publish complete.
+10:48:38 PM	Processed 1 section(s)
+10:48:38 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:48:38 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:48:40 PM	Adding to solution 'TimeTrackingOleksWild'
+10:48:40 PM	Deployed 1 webresource(s)
+10:48:40 PM	Publishing 1 webresources...
+10:48:45 PM	Publish complete.
+10:48:45 PM	Processed 1 section(s)
+10:48:45 PM	Processed 2 config(s)
+11:02:15 PM	Deploying WebResources
+11:02:15 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:02:15 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:02:16 PM	Adding to solution 'TimeTrackingOleksWild'
+11:02:17 PM	Deployed 1 webresource(s)
+11:02:17 PM	Publishing 1 webresources...
+11:02:21 PM	Publish complete.
+11:02:21 PM	Processed 1 section(s)
+11:02:21 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:02:21 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:02:23 PM	Adding to solution 'TimeTrackingOleksWild'
+11:02:23 PM	Deployed 1 webresource(s)
+11:02:23 PM	Publishing 1 webresources...
+11:02:27 PM	Publish complete.
+11:02:27 PM	Processed 1 section(s)
+11:02:27 PM	Processed 2 config(s)
+11:36:54 PM	Unpacking solution
+11:36:54 PM	Searching for packager config in 'D:\Projects\Dynamics365JS\Webresources\..'
+11:36:54 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:42:48 PM	Deploying WebResources
+11:42:48 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:42:48 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:42:50 PM	Adding to solution 'TimeTrackingOleksWild'
+11:42:51 PM	Deployed 1 webresource(s)
+11:42:51 PM	Publishing 1 webresources...
+11:42:56 PM	Publish complete.
+11:42:56 PM	Processed 1 section(s)
+11:42:56 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:42:57 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:42:57 PM	Adding to solution 'TimeTrackingOleksWild'
+11:42:58 PM	Deployed 1 webresource(s)
+11:42:58 PM	Publishing 1 webresources...
+11:43:03 PM	Publish complete.
+11:43:03 PM	Processed 1 section(s)
+11:43:03 PM	Processed 2 config(s)
+11:45:14 PM	Deploying WebResources
+11:45:15 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:45:15 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:45:17 PM	Adding to solution 'TimeTrackingOleksWild'
+11:45:17 PM	Deployed 1 webresource(s)
+11:45:17 PM	Publishing 1 webresources...
+11:45:23 PM	Publish complete.
+11:45:23 PM	Processed 1 section(s)
+11:45:23 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:45:23 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:45:25 PM	Adding to solution 'TimeTrackingOleksWild'
+11:45:25 PM	Deployed 1 webresource(s)
+11:45:25 PM	Publishing 1 webresources...
+11:45:31 PM	Publish complete.
+11:45:31 PM	Processed 1 section(s)
+11:45:31 PM	Processed 2 config(s)
+11:47:02 PM	Deploying WebResources
+11:47:02 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+11:47:03 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:47:04 PM	Adding to solution 'TimeTrackingOleksWild'
+11:47:04 PM	Deployed 1 webresource(s)
+11:47:04 PM	Publishing 1 webresources...
+11:47:09 PM	Publish complete.
+11:47:09 PM	Processed 1 section(s)
+11:47:09 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+11:47:10 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+11:47:11 PM	Adding to solution 'TimeTrackingOleksWild'
+11:47:12 PM	Deployed 1 webresource(s)
+11:47:12 PM	Publishing 1 webresources...
+11:47:17 PM	Publish complete.
+11:47:17 PM	Processed 1 section(s)
+11:47:17 PM	Processed 2 config(s)
+1:06:37 PM	Deploying WebResources
+1:06:37 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+1:07:07 PM	Deploying WebResources
+1:07:07 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+1:07:39 PM	Deploying WebResources
+1:07:40 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+1:07:40 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+1:07:44 PM	Adding to solution 'TimeTrackingOleksWild'
+1:07:45 PM	Deployed 1 webresource(s)
+1:07:45 PM	Publishing 1 webresources...
+1:07:58 PM	Publish complete.
+1:07:58 PM	Processed 1 section(s)
+1:07:58 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+1:07:58 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+1:07:58 PM	Deployed 0 webresource(s)
+1:07:58 PM	Publishing 0 webresources...
+1:07:58 PM	Publish complete.
+1:07:58 PM	Processed 1 section(s)
+1:07:58 PM	Processed 2 config(s)
+1:15:12 PM	Deploying WebResources
+1:15:13 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+1:15:13 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+1:15:13 PM	Deployed 0 webresource(s)
+1:15:13 PM	Publishing 0 webresources...
+1:15:13 PM	Publish complete.
+1:15:13 PM	Processed 1 section(s)
+1:15:13 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+1:15:13 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+1:15:15 PM	Adding to solution 'TimeTrackingOleksWild'
+1:15:15 PM	Deployed 1 webresource(s)
+1:15:15 PM	Publishing 1 webresources...
+1:15:30 PM	Publish complete.
+1:15:30 PM	Processed 1 section(s)
+1:15:30 PM	Processed 2 config(s)
+1:23:01 PM	Deploying WebResources
+1:23:01 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+1:23:02 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+1:23:02 PM	Deployed 0 webresource(s)
+1:23:02 PM	Publishing 0 webresources...
+1:23:02 PM	Publish complete.
+1:23:02 PM	Processed 1 section(s)
+1:23:02 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+1:23:02 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+1:23:02 PM	Deployed 0 webresource(s)
+1:23:02 PM	Publishing 0 webresources...
+1:23:02 PM	Publish complete.
+1:23:02 PM	Processed 1 section(s)
+1:23:02 PM	Processed 2 config(s)
+4:20:41 PM	Deploying WebResources
+4:20:41 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:20:41 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:20:47 PM	Adding to solution 'TimeTrackingOleksWild'
+4:20:48 PM	Deployed 1 webresource(s)
+4:20:48 PM	Publishing 1 webresources...
+4:21:05 PM	Publish complete.
+4:21:05 PM	Processed 1 section(s)
+4:21:05 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:21:05 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+4:21:05 PM	Deployed 0 webresource(s)
+4:21:05 PM	Publishing 0 webresources...
+4:21:05 PM	Publish complete.
+4:21:05 PM	Processed 1 section(s)
+4:21:05 PM	Processed 2 config(s)
+4:23:44 PM	Deploying WebResources
+4:23:44 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:23:45 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:23:46 PM	Adding to solution 'TimeTrackingOleksWild'
+4:23:47 PM	Deployed 1 webresource(s)
+4:23:47 PM	Publishing 1 webresources...
+4:23:54 PM	Publish complete.
+4:23:54 PM	Processed 1 section(s)
+4:23:54 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:23:54 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+4:23:54 PM	Deployed 0 webresource(s)
+4:23:54 PM	Publishing 0 webresources...
+4:23:54 PM	Publish complete.
+4:23:54 PM	Processed 1 section(s)
+4:23:54 PM	Processed 2 config(s)
+10:04:02 PM	Deploying WebResources
+10:04:02 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:04:02 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+10:04:02 PM	Deployed 0 webresource(s)
+10:04:02 PM	Publishing 0 webresources...
+10:04:02 PM	Publish complete.
+10:04:02 PM	Processed 1 section(s)
+10:04:02 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:04:03 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:04:06 PM	Adding to solution 'TimeTrackingOleksWild'
+10:04:07 PM	Deployed 1 webresource(s)
+10:04:07 PM	Publishing 1 webresources...
+10:04:21 PM	Publish complete.
+10:04:21 PM	Processed 1 section(s)
+10:04:21 PM	Processed 2 config(s)
+10:16:28 PM	Deploying WebResources
+10:16:28 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:16:29 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+10:16:29 PM	Deployed 0 webresource(s)
+10:16:29 PM	Publishing 0 webresources...
+10:16:29 PM	Publish complete.
+10:16:29 PM	Processed 1 section(s)
+10:16:29 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:16:29 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+10:16:29 PM	Deployed 0 webresource(s)
+10:16:29 PM	Publishing 0 webresources...
+10:16:29 PM	Publish complete.
+10:16:29 PM	Processed 1 section(s)
+10:16:29 PM	Processed 2 config(s)
+10:22:04 PM	Deploying WebResources
+10:22:04 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:22:04 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:22:06 PM	Adding to solution 'TimeTrackingOleksWild'
+10:22:07 PM	Deployed 1 webresource(s)
+10:22:07 PM	Publishing 1 webresources...
+10:22:23 PM	Publish complete.
+10:22:23 PM	Processed 1 section(s)
+10:22:23 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:22:23 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+10:22:23 PM	Deployed 0 webresource(s)
+10:22:23 PM	Publishing 0 webresources...
+10:22:23 PM	Publish complete.
+10:22:23 PM	Processed 1 section(s)
+10:22:23 PM	Processed 2 config(s)
+10:25:05 PM	Deploying WebResources
+10:25:05 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:25:06 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:25:07 PM	Adding to solution 'TimeTrackingOleksWild'
+10:25:07 PM	Deployed 1 webresource(s)
+10:25:07 PM	Publishing 1 webresources...
+10:25:12 PM	Publish complete.
+10:25:12 PM	Processed 1 section(s)
+10:25:12 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:25:13 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+10:25:13 PM	Deployed 0 webresource(s)
+10:25:13 PM	Publishing 0 webresources...
+10:25:13 PM	Publish complete.
+10:25:13 PM	Processed 1 section(s)
+10:25:13 PM	Processed 2 config(s)
+2:33:13 PM	Deploying WebResources
+2:33:13 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:33:14 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+2:33:14 PM	Deployed 0 webresource(s)
+2:33:14 PM	Publishing 0 webresources...
+2:33:14 PM	Publish complete.
+2:33:14 PM	Processed 1 section(s)
+2:33:14 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+2:33:14 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:33:20 PM	Adding to solution 'TimeTrackingOleksWild'
+2:33:22 PM	Deployed 1 webresource(s)
+2:33:22 PM	Publishing 1 webresources...
+2:33:45 PM	Publish complete.
+2:33:45 PM	Processed 1 section(s)
+2:33:45 PM	Processed 2 config(s)
+2:40:53 PM	Deploying WebResources
+2:40:54 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:40:54 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:40:55 PM	Adding to solution 'TimeTrackingOleksWild'
+2:40:56 PM	Deployed 1 webresource(s)
+2:40:56 PM	Publishing 1 webresources...
+2:41:14 PM	Publish complete.
+2:41:14 PM	Processed 1 section(s)
+2:41:14 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+2:41:15 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:41:16 PM	Adding to solution 'TimeTrackingOleksWild'
+2:41:16 PM	Deployed 1 webresource(s)
+2:41:16 PM	Publishing 1 webresources...
+2:41:21 PM	Publish complete.
+2:41:21 PM	Processed 1 section(s)
+2:41:21 PM	Processed 2 config(s)
+2:48:42 PM	Deploying WebResources
+2:48:42 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:48:42 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:48:44 PM	Adding to solution 'TimeTrackingOleksWild'
+2:48:44 PM	Deployed 1 webresource(s)
+2:48:44 PM	Publishing 1 webresources...
+2:48:54 PM	Publish complete.
+2:48:54 PM	Processed 1 section(s)
+2:48:54 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+2:48:54 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:48:56 PM	Adding to solution 'TimeTrackingOleksWild'
+2:48:57 PM	Deployed 1 webresource(s)
+2:48:57 PM	Publishing 1 webresources...
+2:49:02 PM	Publish complete.
+2:49:02 PM	Processed 1 section(s)
+2:49:02 PM	Processed 2 config(s)
+2:54:54 PM	Deploying WebResources
+2:54:54 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:54:55 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:54:56 PM	Adding to solution 'TimeTrackingOleksWild'
+2:54:57 PM	Deployed 1 webresource(s)
+2:54:57 PM	Publishing 1 webresources...
+2:55:03 PM	Publish complete.
+2:55:03 PM	Processed 1 section(s)
+2:55:03 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+2:55:03 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:55:04 PM	Adding to solution 'TimeTrackingOleksWild'
+2:55:05 PM	Deployed 1 webresource(s)
+2:55:05 PM	Publishing 1 webresources...
+2:55:10 PM	Publish complete.
+2:55:10 PM	Processed 1 section(s)
+2:55:10 PM	Processed 2 config(s)
+3:27:59 PM	Deploying WebResources
+3:27:59 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:28:00 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:28:04 PM	Adding to solution 'TimeTrackingOleksWild'
+3:28:05 PM	Deployed 1 webresource(s)
+3:28:05 PM	Publishing 1 webresources...
+3:28:24 PM	Publish complete.
+3:28:24 PM	Processed 1 section(s)
+3:28:24 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:28:25 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:28:26 PM	Adding to solution 'TimeTrackingOleksWild'
+3:28:26 PM	Deployed 1 webresource(s)
+3:28:26 PM	Publishing 1 webresources...
+3:28:30 PM	Publish complete.
+3:28:30 PM	Processed 1 section(s)
+3:28:30 PM	Processed 2 config(s)
+3:40:28 PM	Deploying WebResources
+3:40:28 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:40:29 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:40:30 PM	Adding to solution 'TimeTrackingOleksWild'
+3:40:31 PM	Deployed 1 webresource(s)
+3:40:31 PM	Publishing 1 webresources...
+3:40:35 PM	Publish complete.
+3:40:35 PM	Processed 1 section(s)
+3:40:35 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:40:36 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:40:37 PM	Adding to solution 'TimeTrackingOleksWild'
+3:40:37 PM	Deployed 1 webresource(s)
+3:40:37 PM	Publishing 1 webresources...
+3:40:42 PM	Publish complete.
+3:40:42 PM	Processed 1 section(s)
+3:40:42 PM	Processed 2 config(s)
+4:08:07 PM	Deploying WebResources
+4:08:07 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:08:07 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:08:08 PM	Adding to solution 'TimeTrackingOleksWild'
+4:08:09 PM	Deployed 1 webresource(s)
+4:08:09 PM	Publishing 1 webresources...
+4:08:12 PM	Publish complete.
+4:08:12 PM	Processed 1 section(s)
+4:08:12 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:08:13 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:08:14 PM	Adding to solution 'TimeTrackingOleksWild'
+4:08:14 PM	Deployed 1 webresource(s)
+4:08:14 PM	Publishing 1 webresources...
+4:08:18 PM	Publish complete.
+4:08:18 PM	Processed 1 section(s)
+4:08:18 PM	Processed 2 config(s)
+4:12:44 PM	Deploying WebResources
+4:12:44 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:12:44 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:12:47 PM	Adding to solution 'TimeTrackingOleksWild'
+4:12:47 PM	Deployed 1 webresource(s)
+4:12:47 PM	Publishing 1 webresources...
+4:12:52 PM	Publish complete.
+4:12:52 PM	Processed 1 section(s)
+4:12:52 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:12:53 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:12:54 PM	Adding to solution 'TimeTrackingOleksWild'
+4:12:54 PM	Deployed 1 webresource(s)
+4:12:54 PM	Publishing 1 webresources...
+4:12:59 PM	Publish complete.
+4:12:59 PM	Processed 1 section(s)
+4:12:59 PM	Processed 2 config(s)
+4:19:53 PM	Deploying WebResources
+4:19:53 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:19:54 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:19:55 PM	Adding to solution 'TimeTrackingOleksWild'
+4:19:56 PM	Deployed 1 webresource(s)
+4:19:56 PM	Publishing 1 webresources...
+4:20:00 PM	Publish complete.
+4:20:00 PM	Processed 1 section(s)
+4:20:00 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:20:01 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:20:02 PM	Adding to solution 'TimeTrackingOleksWild'
+4:20:02 PM	Deployed 1 webresource(s)
+4:20:02 PM	Publishing 1 webresources...
+4:20:06 PM	Publish complete.
+4:20:06 PM	Processed 1 section(s)
+4:20:06 PM	Processed 2 config(s)
+4:25:29 PM	Deploying WebResources
+4:25:29 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:25:29 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:25:30 PM	Adding to solution 'TimeTrackingOleksWild'
+4:25:30 PM	Deployed 1 webresource(s)
+4:25:30 PM	Publishing 1 webresources...
+4:25:34 PM	Publish complete.
+4:25:34 PM	Processed 1 section(s)
+4:25:34 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:25:35 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:25:36 PM	Adding to solution 'TimeTrackingOleksWild'
+4:25:36 PM	Deployed 1 webresource(s)
+4:25:36 PM	Publishing 1 webresources...
+4:25:39 PM	Publish complete.
+4:25:39 PM	Processed 1 section(s)
+4:25:39 PM	Processed 2 config(s)
+4:28:08 PM	Deploying WebResources
+4:28:08 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:28:09 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:28:10 PM	Adding to solution 'TimeTrackingOleksWild'
+4:28:10 PM	Deployed 1 webresource(s)
+4:28:10 PM	Publishing 1 webresources...
+4:28:16 PM	Publish complete.
+4:28:16 PM	Processed 1 section(s)
+4:28:16 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:28:17 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:28:17 PM	Adding to solution 'TimeTrackingOleksWild'
+4:28:18 PM	Deployed 1 webresource(s)
+4:28:18 PM	Publishing 1 webresources...
+4:28:23 PM	Publish complete.
+4:28:23 PM	Processed 1 section(s)
+4:28:23 PM	Processed 2 config(s)
+2:39:45 PM	Deploying WebResources
+2:39:45 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:39:46 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:39:52 PM	Adding to solution 'TimeTrackingOleksWild'
+2:39:53 PM	Creating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+2:39:55 PM	Adding to solution 'TimeTrackingOleksWild'
+2:39:55 PM	Deployed 2 webresource(s)
+2:39:55 PM	Publishing 2 webresources...
+2:40:13 PM	Publish complete.
+2:40:13 PM	Processed 1 section(s)
+2:40:13 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+2:40:14 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:40:15 PM	Adding to solution 'TimeTrackingOleksWild'
+2:40:16 PM	ow_ProjectFormInfo.html has not changed, skipping...
+2:40:16 PM	Deployed 1 webresource(s)
+2:40:16 PM	Publishing 1 webresources...
+2:40:19 PM	Publish complete.
+2:40:19 PM	Processed 1 section(s)
+2:40:19 PM	Processed 2 config(s)
+7:43:52 AM	Deploying WebResources
+7:43:52 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+7:43:52 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+7:43:59 AM	Adding to solution 'TimeTrackingOleksWild'
+7:44:01 AM	ow_ProjectFormInfo.html has not changed, skipping...
+7:44:01 AM	Deployed 1 webresource(s)
+7:44:01 AM	Publishing 1 webresources...
+7:44:21 AM	Publish complete.
+7:44:21 AM	Processed 1 section(s)
+7:44:21 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+7:44:21 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+7:44:23 AM	Adding to solution 'TimeTrackingOleksWild'
+7:44:23 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+7:44:26 AM	Adding to solution 'TimeTrackingOleksWild'
+7:44:26 AM	Deployed 2 webresource(s)
+7:44:26 AM	Publishing 2 webresources...
+7:44:31 AM	Publish complete.
+7:44:31 AM	Processed 1 section(s)
+7:44:31 AM	Processed 2 config(s)
+7:45:09 AM	Deploying WebResources
+7:45:09 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+7:45:10 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+7:45:11 AM	Adding to solution 'TimeTrackingOleksWild'
+7:45:11 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+7:45:12 AM	Adding to solution 'TimeTrackingOleksWild'
+7:45:13 AM	Deployed 2 webresource(s)
+7:45:13 AM	Publishing 2 webresources...
+7:45:17 AM	Publish complete.
+7:45:17 AM	Processed 1 section(s)
+7:45:17 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+7:45:17 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+7:45:18 AM	Adding to solution 'TimeTrackingOleksWild'
+7:45:19 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+7:45:19 AM	Adding to solution 'TimeTrackingOleksWild'
+7:45:20 AM	Deployed 2 webresource(s)
+7:45:20 AM	Publishing 2 webresources...
+7:45:23 AM	Publish complete.
+7:45:23 AM	Processed 1 section(s)
+7:45:23 AM	Processed 2 config(s)
+7:55:10 AM	Deploying WebResources
+7:55:10 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+7:55:11 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+7:55:12 AM	Adding to solution 'TimeTrackingOleksWild'
+7:55:13 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+7:55:14 AM	Adding to solution 'TimeTrackingOleksWild'
+7:55:14 AM	Deployed 2 webresource(s)
+7:55:14 AM	Publishing 2 webresources...
+7:55:19 AM	Publish complete.
+7:55:19 AM	Processed 1 section(s)
+7:55:19 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+7:55:19 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+7:55:20 AM	Adding to solution 'TimeTrackingOleksWild'
+7:55:21 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+7:55:22 AM	Adding to solution 'TimeTrackingOleksWild'
+7:55:22 AM	Deployed 2 webresource(s)
+7:55:22 AM	Publishing 2 webresources...
+7:55:26 AM	Publish complete.
+7:55:26 AM	Processed 1 section(s)
+7:55:26 AM	Processed 2 config(s)
+7:58:54 AM	Deploying WebResources
+7:58:54 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+7:58:55 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+7:58:56 AM	Adding to solution 'TimeTrackingOleksWild'
+7:58:56 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+7:58:57 AM	Adding to solution 'TimeTrackingOleksWild'
+7:58:58 AM	Deployed 2 webresource(s)
+7:58:58 AM	Publishing 2 webresources...
+7:59:02 AM	Publish complete.
+7:59:02 AM	Processed 1 section(s)
+7:59:02 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+7:59:02 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+7:59:03 AM	Adding to solution 'TimeTrackingOleksWild'
+7:59:04 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+7:59:04 AM	Adding to solution 'TimeTrackingOleksWild'
+7:59:05 AM	Deployed 2 webresource(s)
+7:59:05 AM	Publishing 2 webresources...
+7:59:11 AM	Publish complete.
+7:59:11 AM	Processed 1 section(s)
+7:59:11 AM	Processed 2 config(s)
+2:15:21 PM	Deploying WebResources
+2:15:21 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:15:22 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:15:29 PM	Adding to solution 'TimeTrackingOleksWild'
+2:15:31 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+2:15:33 PM	Adding to solution 'TimeTrackingOleksWild'
+2:15:33 PM	Deployed 2 webresource(s)
+2:15:33 PM	Publishing 2 webresources...
+2:15:56 PM	Publish complete.
+2:15:56 PM	Processed 1 section(s)
+2:15:56 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+2:15:56 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:15:57 PM	Adding to solution 'TimeTrackingOleksWild'
+2:15:58 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+2:15:59 PM	Adding to solution 'TimeTrackingOleksWild'
+2:15:59 PM	Deployed 2 webresource(s)
+2:15:59 PM	Publishing 2 webresources...
+2:16:05 PM	Publish complete.
+2:16:05 PM	Processed 1 section(s)
+2:16:05 PM	Processed 2 config(s)
+2:20:41 PM	Deploying WebResources
+2:20:41 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+2:20:41 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:20:42 PM	Adding to solution 'TimeTrackingOleksWild'
+2:20:43 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+2:20:44 PM	Adding to solution 'TimeTrackingOleksWild'
+2:20:44 PM	Deployed 2 webresource(s)
+2:20:44 PM	Publishing 2 webresources...
+2:20:50 PM	Publish complete.
+2:20:50 PM	Processed 1 section(s)
+2:20:50 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+2:20:51 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+2:20:52 PM	Adding to solution 'TimeTrackingOleksWild'
+2:20:52 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+2:20:53 PM	Adding to solution 'TimeTrackingOleksWild'
+2:20:54 PM	Deployed 2 webresource(s)
+2:20:54 PM	Publishing 2 webresources...
+2:20:58 PM	Publish complete.
+2:20:58 PM	Processed 1 section(s)
+2:20:58 PM	Processed 2 config(s)
+4:01:12 PM	Deploying WebResources
+4:01:12 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:01:13 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:01:18 PM	Adding to solution 'TimeTrackingOleksWild'
+4:01:20 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+4:01:23 PM	Adding to solution 'TimeTrackingOleksWild'
+4:01:23 PM	Deployed 2 webresource(s)
+4:01:23 PM	Publishing 2 webresources...
+4:01:41 PM	Publish complete.
+4:01:41 PM	Processed 1 section(s)
+4:01:41 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:01:41 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+4:01:42 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+4:01:44 PM	Adding to solution 'TimeTrackingOleksWild'
+4:01:44 PM	Deployed 1 webresource(s)
+4:01:44 PM	Publishing 1 webresources...
+4:01:48 PM	Publish complete.
+4:01:48 PM	Processed 1 section(s)
+4:01:48 PM	Processed 2 config(s)
+4:08:03 PM	Deploying WebResources
+4:08:04 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:08:04 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+4:08:04 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+4:08:05 PM	Adding to solution 'TimeTrackingOleksWild'
+4:08:06 PM	Deployed 1 webresource(s)
+4:08:06 PM	Publishing 1 webresources...
+4:08:10 PM	Publish complete.
+4:08:10 PM	Processed 1 section(s)
+4:08:10 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:08:10 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+4:08:10 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+4:08:11 PM	Adding to solution 'TimeTrackingOleksWild'
+4:08:11 PM	Deployed 1 webresource(s)
+4:08:11 PM	Publishing 1 webresources...
+4:08:15 PM	Publish complete.
+4:08:15 PM	Processed 1 section(s)
+4:08:15 PM	Processed 2 config(s)
+4:14:07 PM	Deploying WebResources
+4:14:07 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+4:14:07 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+4:14:08 PM	Adding to solution 'TimeTrackingOleksWild'
+4:14:09 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+4:14:10 PM	Adding to solution 'TimeTrackingOleksWild'
+4:14:10 PM	Deployed 2 webresource(s)
+4:14:10 PM	Publishing 2 webresources...
+4:14:14 PM	Publish complete.
+4:14:14 PM	Processed 1 section(s)
+4:14:14 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+4:14:14 PM	ow_TimeTrackingRecordForm.js has not changed, skipping...
+4:14:14 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+4:14:15 PM	Adding to solution 'TimeTrackingOleksWild'
+4:14:15 PM	Deployed 1 webresource(s)
+4:14:15 PM	Publishing 1 webresources...
+4:14:19 PM	Publish complete.
+4:14:19 PM	Processed 1 section(s)
+4:14:19 PM	Processed 2 config(s)
+10:45:00 PM	Deploying WebResources
+10:45:01 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:45:01 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:45:03 PM	Adding to solution 'TimeTrackingOleksWild'
+10:45:04 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+10:45:05 PM	Adding to solution 'TimeTrackingOleksWild'
+10:45:06 PM	Deployed 2 webresource(s)
+10:45:06 PM	Publishing 2 webresources...
+10:45:10 PM	Publish complete.
+10:45:10 PM	Processed 1 section(s)
+10:45:10 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:45:10 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:45:11 PM	Adding to solution 'TimeTrackingOleksWild'
+10:45:12 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+10:45:12 PM	Adding to solution 'TimeTrackingOleksWild'
+10:45:13 PM	Deployed 2 webresource(s)
+10:45:13 PM	Publishing 2 webresources...
+10:45:17 PM	Publish complete.
+10:45:17 PM	Processed 1 section(s)
+10:45:17 PM	Processed 2 config(s)
+12:13:25 AM	Deploying WebResources
+12:13:26 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+12:13:26 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:13:31 AM	Adding to solution 'TimeTrackingOleksWild'
+12:13:32 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:13:35 AM	Adding to solution 'TimeTrackingOleksWild'
+12:13:36 AM	Deployed 2 webresource(s)
+12:13:36 AM	Publishing 2 webresources...
+12:13:52 AM	Publish complete.
+12:13:52 AM	Processed 1 section(s)
+12:13:52 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+12:13:52 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:13:53 AM	Adding to solution 'TimeTrackingOleksWild'
+12:13:54 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:13:55 AM	Adding to solution 'TimeTrackingOleksWild'
+12:13:55 AM	Deployed 2 webresource(s)
+12:13:55 AM	Publishing 2 webresources...
+12:14:00 AM	Publish complete.
+12:14:00 AM	Processed 1 section(s)
+12:14:00 AM	Processed 2 config(s)
+12:43:58 AM	Deploying WebResources
+12:43:58 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+12:43:59 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:44:00 AM	Adding to solution 'TimeTrackingOleksWild'
+12:44:00 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:44:01 AM	Adding to solution 'TimeTrackingOleksWild'
+12:44:02 AM	Deployed 2 webresource(s)
+12:44:02 AM	Publishing 2 webresources...
+12:44:06 AM	Publish complete.
+12:44:06 AM	Processed 1 section(s)
+12:44:06 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+12:44:07 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:44:08 AM	Adding to solution 'TimeTrackingOleksWild'
+12:44:09 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:44:10 AM	Adding to solution 'TimeTrackingOleksWild'
+12:44:11 AM	Deployed 2 webresource(s)
+12:44:11 AM	Publishing 2 webresources...
+12:44:15 AM	Publish complete.
+12:44:15 AM	Processed 1 section(s)
+12:44:15 AM	Processed 2 config(s)
+3:21:29 PM	Deploying WebResources
+3:21:29 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:21:30 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:21:31 PM	Adding to solution 'TimeTrackingOleksWild'
+3:21:32 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+3:21:33 PM	Adding to solution 'TimeTrackingOleksWild'
+3:21:33 PM	Deployed 2 webresource(s)
+3:21:33 PM	Publishing 2 webresources...
+3:21:38 PM	Publish complete.
+3:21:38 PM	Processed 1 section(s)
+3:21:38 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:21:38 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:21:38 PM	Adding to solution 'TimeTrackingOleksWild'
+3:21:39 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+3:21:40 PM	Adding to solution 'TimeTrackingOleksWild'
+3:21:40 PM	Deployed 2 webresource(s)
+3:21:40 PM	Publishing 2 webresources...
+3:21:46 PM	Publish complete.
+3:21:46 PM	Processed 1 section(s)
+3:21:46 PM	Processed 2 config(s)
+10:04:56 AM	Deploying WebResources
+10:04:56 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+10:04:57 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:05:01 AM	Adding to solution 'TimeTrackingOleksWild'
+10:05:02 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+10:05:03 AM	Adding to solution 'TimeTrackingOleksWild'
+10:05:04 AM	Deployed 2 webresource(s)
+10:05:04 AM	Publishing 2 webresources...
+10:05:13 AM	Publish complete.
+10:05:13 AM	Processed 1 section(s)
+10:05:13 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+10:05:14 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+10:05:14 AM	Adding to solution 'TimeTrackingOleksWild'
+10:05:15 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+10:05:16 AM	Adding to solution 'TimeTrackingOleksWild'
+10:05:16 AM	Deployed 2 webresource(s)
+10:05:16 AM	Publishing 2 webresources...
+10:05:21 AM	Publish complete.
+10:05:21 AM	Processed 1 section(s)
+10:05:21 AM	Processed 2 config(s)
+3:22:23 PM	Deploying WebResources
+3:22:23 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+3:22:23 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:22:27 PM	Adding to solution 'TimeTrackingOleksWild'
+3:22:28 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+3:22:30 PM	Adding to solution 'TimeTrackingOleksWild'
+3:22:30 PM	Deployed 2 webresource(s)
+3:22:30 PM	Publishing 2 webresources...
+3:22:45 PM	Publish complete.
+3:22:45 PM	Processed 1 section(s)
+3:22:45 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+3:22:46 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+3:22:47 PM	Adding to solution 'TimeTrackingOleksWild'
+3:22:47 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+3:22:48 PM	Adding to solution 'TimeTrackingOleksWild'
+3:22:49 PM	Deployed 2 webresource(s)
+3:22:49 PM	Publishing 2 webresources...
+3:22:54 PM	Publish complete.
+3:22:54 PM	Processed 1 section(s)
+3:22:54 PM	Processed 2 config(s)
+12:11:15 AM	Deploying WebResources
+12:11:15 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+12:11:15 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:11:18 AM	Adding to solution 'TimeTrackingOleksWild'
+12:11:20 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:11:22 AM	Adding to solution 'TimeTrackingOleksWild'
+12:11:23 AM	Deployed 2 webresource(s)
+12:11:23 AM	Publishing 2 webresources...
+12:11:36 AM	Publish complete.
+12:11:36 AM	Processed 1 section(s)
+12:11:36 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+12:11:36 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:11:37 AM	Adding to solution 'TimeTrackingOleksWild'
+12:11:38 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:11:39 AM	Adding to solution 'TimeTrackingOleksWild'
+12:11:39 AM	Deployed 2 webresource(s)
+12:11:39 AM	Publishing 2 webresources...
+12:11:43 AM	Publish complete.
+12:11:43 AM	Processed 1 section(s)
+12:11:43 AM	Processed 2 config(s)
+12:28:29 AM	Deploying WebResources
+12:28:29 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+12:28:29 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:28:31 AM	Adding to solution 'TimeTrackingOleksWild'
+12:28:31 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:28:32 AM	Adding to solution 'TimeTrackingOleksWild'
+12:28:33 AM	Deployed 2 webresource(s)
+12:28:33 AM	Publishing 2 webresources...
+12:28:37 AM	Publish complete.
+12:28:37 AM	Processed 1 section(s)
+12:28:37 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+12:28:38 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:28:38 AM	Adding to solution 'TimeTrackingOleksWild'
+12:28:39 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:28:40 AM	Adding to solution 'TimeTrackingOleksWild'
+12:28:40 AM	Deployed 2 webresource(s)
+12:28:40 AM	Publishing 2 webresources...
+12:28:44 AM	Publish complete.
+12:28:44 AM	Processed 1 section(s)
+12:28:44 AM	Processed 2 config(s)
+12:36:28 AM	Deploying WebResources
+12:36:28 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+12:36:29 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:36:30 AM	Adding to solution 'TimeTrackingOleksWild'
+12:36:31 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:36:31 AM	Adding to solution 'TimeTrackingOleksWild'
+12:36:32 AM	Deployed 2 webresource(s)
+12:36:32 AM	Publishing 2 webresources...
+12:36:37 AM	Publish complete.
+12:36:37 AM	Processed 1 section(s)
+12:36:37 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+12:36:37 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:36:38 AM	Adding to solution 'TimeTrackingOleksWild'
+12:36:39 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:36:39 AM	Adding to solution 'TimeTrackingOleksWild'
+12:36:40 AM	Deployed 2 webresource(s)
+12:36:40 AM	Publishing 2 webresources...
+12:36:45 AM	Publish complete.
+12:36:45 AM	Processed 1 section(s)
+12:36:45 AM	Processed 2 config(s)
+12:42:22 AM	Deploying WebResources
+12:42:22 AM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+12:42:23 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:42:24 AM	Adding to solution 'TimeTrackingOleksWild'
+12:42:25 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:42:25 AM	Adding to solution 'TimeTrackingOleksWild'
+12:42:26 AM	Deployed 2 webresource(s)
+12:42:26 AM	Publishing 2 webresources...
+12:42:31 AM	Publish complete.
+12:42:31 AM	Processed 1 section(s)
+12:42:31 AM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+12:42:31 AM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+12:42:32 AM	Adding to solution 'TimeTrackingOleksWild'
+12:42:33 AM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+12:42:33 AM	Adding to solution 'TimeTrackingOleksWild'
+12:42:34 AM	Deployed 2 webresource(s)
+12:42:34 AM	Publishing 2 webresources...
+12:42:38 AM	Publish complete.
+12:42:38 AM	Processed 1 section(s)
+12:42:38 AM	Processed 2 config(s)
+1:23:35 PM	Deploying WebResources
+1:23:35 PM	Using Config 'D:\Projects\Dynamics365JS\Solutions'
+1:23:35 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+1:23:39 PM	Adding to solution 'TimeTrackingOleksWild'
+1:23:41 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+1:23:43 PM	Adding to solution 'TimeTrackingOleksWild'
+1:23:43 PM	Deployed 2 webresource(s)
+1:23:43 PM	Publishing 2 webresources...
+1:23:59 PM	Publish complete.
+1:23:59 PM	Processed 1 section(s)
+1:23:59 PM	Using Config 'D:\Projects\Dynamics365JS\WebResources'
+1:23:59 PM	Updating Webresource 'js\TimeTrackingRecordForm.js' -> 'ow_TimeTrackingRecordForm.js'
+1:24:00 PM	Adding to solution 'TimeTrackingOleksWild'
+1:24:00 PM	Updating Webresource 'html\ProjectFormInfo.html' -> 'ow_ProjectFormInfo.html'
+1:24:02 PM	Adding to solution 'TimeTrackingOleksWild'
+1:24:02 PM	Deployed 2 webresource(s)
+1:24:02 PM	Publishing 2 webresources...
+1:24:09 PM	Publish complete.
+1:24:09 PM	Processed 1 section(s)
+1:24:09 PM	Processed 2 config(s)
